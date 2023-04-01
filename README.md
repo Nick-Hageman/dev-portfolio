@@ -1,9 +1,4 @@
-# [notmarc.me](https://notmarc.me)
-
-My personal portfolio website built on Next.js w/ TypeScript, TailwindCSS, DaisyUI, Framer Motion, and react-scroll-parralax. 
-
-## To-do
-Blog page built on GraphQL 
+Website Template Source: https://github.com/marcreniel
 
 ## Setup
 
