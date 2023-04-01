@@ -12,9 +12,9 @@ export default function Index() {
     <>
       <ParallaxProvider>
         <Head>
-          <title>Marc Bernardino | notmarc.me</title>
+          <title>Nick Hageman</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link rel="icon" href="/favicon.ico"/>
+          <link rel="icon" href="/favicon.PNG"/>
         </Head>
         <Navbar/>
         <Parallax speed={-25}>

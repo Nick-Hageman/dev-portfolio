@@ -7,129 +7,116 @@ export default function Portfolio (props) {
                 </h1>
                 <div className="flex flex-col xl:space-x-5 xl:flex-row">
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                                <figure><img src="/notifai.png" alt="Maple" /></figure>
+                                <figure><img src="/hagemanhomes1.png" alt="Maple" /></figure>
                                 <div className="card-body">
                                     <h2 className="card-title">
-                                    notifAI
+                                    Real Estate Business Web Application
                                     </h2>
                                     <div className="flex flex-col md:flex-row space-x-2">
-                                        <a href="https://lablab.ai/event/cohere-hackathon/abg-hunters/notifai" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Presentation</a>
-                                        <a href="https://github.com/Kalamojo/notifAI" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                        <a href="https://hageman-homes.com" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Website</a>
+                                        <a href="https://github.com/Nick-Hageman/Real-Estate-Webapp-2023" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                                     </div>
-                                    <p>An application that uses a custom model of Cohere&apos;s Generate to scan and summarize notes on the fly.</p>
+                                    <p>Developed a web application for home builder's business. Implemented interactive satellite maps of available lots and 3D models of floorplans using LiDAR technology.</p>
                                     <div className="card-actions justify-end">
-                                    <div className="badge badge-accent badge-outline">Cohere Hackathon 2023</div>
-                                    <div className="badge badge-outline">React Native</div>
-                                    <div className="badge badge-outline">TypeScript</div>
-                                    <div className="badge badge-outline">Python</div> 
+                                    <div className="badge badge-outline">Node.js</div>
+                                    <div className="badge badge-outline">Javascript</div>
+                                    <div className="badge badge-outline">Three.js</div>
+                                    <div className="badge badge-outline">Docker</div>
+                                    <div className="badge badge-outline">AWS</div>
                                     </div>
                                 </div>
                         </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/maple.png" alt="Maple" /></figure>
+                        <figure><img src="/hawktalk1.png" alt="Maple" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                            Maple
+                            Hawk Talk
                             </h2>
                             <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://maple.notmarc.me/" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Website</a>
-                                <a href="https://github.com/imedra/Maple" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                <a href="https://github.com/Nick-Hageman/Desktop-Native-Chat-Application" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                             </div>
-                            <p>A user-friendly all-in-one client for CPS Students. Check your grades, attendance, and bus times!</p>
+                            <p>Created a desktop native chat application to familiarize myself with React for my incoming internship @ John Deere. Utilized websockets for bidirectional and low-latency communication.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-outline">React</div>
+                            <div className="badge badge-outline">React.js</div>
                             <div className="badge badge-outline">JSX</div>
-                            <div className="badge badge-outline">Framework7</div> 
-                            <div className="badge badge-outline">Axios</div>
+                            <div className="badge badge-outline">electron.js</div> 
+                            <div className="badge badge-outline">MongoDB</div>
+                            <div className="badge badge-outline">socket.io</div>
                             </div>
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/pynq.png" alt="Pynq" /></figure>
+                        <figure><img src="/bioneos.png" alt="Pynq" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                            Pynq-Z2 CV Demo
+                                Plant Hydration Monitor 
                             </h2>
                             <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://lss.fnal.gov/archive/2022/slides/fermilab-slides-22-107-scd.pdf" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Presentation</a>
+                                <a href="https://github.com/Nick-Hageman/plant-hydration-monitor" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                             </div>
-                            <p>Contributed to Live Pokemon Interface Demo, a CV demonstrator for Fermilab&apos;s hls4ml Demo Lab at DEFCON 30.</p>
+                            <p>Developed an IoT web application to monitor soil moisture levels in real time. Created RESTful APIs to receive and handle sensor data from a microcontroller.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-accent badge-outline">Fermilab TARGET Internship</div>
-                            <div className="badge badge-outline">Xiilinx Vivado</div>
-                            <div className="badge badge-outline">Python</div>
+                            <div className="badge badge-accent badge-outline">Bio::Neos Internship</div>
+                            <div className="badge badge-outline">Arduino</div>
+                            <div className="badge badge-outline">REST API</div>
+                            <div className="badge badge-outline">SQLite</div>
                             </div>
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/discordcgpt.png" alt="discordCGPT" /></figure>
+                        <figure><img src="/nbaml.png" alt="discordCGPT" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                            discordCGPT
+                            NBA Data Machine Learning Competition
                             </h2>
                             <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://github.com/imedra/discordCGPT" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                <a href="https://github.com/Nick-Hageman/NBA-Data-Machine-Learning-Project/blob/main/project1_scoring.ipynb" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                             </div>
-                            <p>A Discord bot that integrates OpenAI&apos;s ChatGPT to use on text channels.</p>
+                            <p>Determined the optimal regression model to make predictions on NBA scoring data. Performed feature engineering to yield better performance and accuracy.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-outline">TypeScript</div> 
-                            <div className="badge badge-outline">discord.js</div>
-                            <div className="badge badge-outline">OpenAI</div>
+                            <div className="badge badge-outline">Python</div> 
+                            <div className="badge badge-outline">Jupyter Notebook</div>
+                            <div className="badge badge-outline">scikit-learn</div>
+                            <div className="badge badge-outline">Pandas</div>
                             </div>
                         </div>
                     </div>
                 </div>
                     <div className="flex flex-col lg:space-x-5 lg:flex-row">
                         <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="/headphones.png" alt="Headphones" /></figure>
+                            <figure><img src="/hackuiowa22.png" alt="Headphones" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                            Headphones
+                            Plate Scraper
                             </h2>
                             <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://github.com/imedra/Headphones" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                <a href="https://github.com/Nick-Hageman/Hackathon2022" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                <a href="https://devpost.com/software/plate-scraper" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>DEVPOST</a>
                             </div>
-                            <p>A discord music bot that supports over 900+ audio websites.</p>
+                            <p>Led a hackathon team in designing a personalized version of the University's dining hall menu. Leveraged Selenium WebDriver to extract HTML data from University websites.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-outline">JavaScript</div> 
-                            <div className="badge badge-outline">discord.js</div>
-                            <div className="badge badge-outline">Distube</div>
+                            <div className="badge badge-accent badge-outline">HackUIowa 2023</div>
+                            <div className="badge badge-outline">Python</div> 
+                            <div className="badge badge-outline">Selenium</div>
+                            <div className="badge badge-outline">Node.js</div>
                             </div>
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="/chivaxtrack.png" alt="ChiVaxTrack" /></figure>
+                            <figure><img src="/asteroids2.png" alt="ChiVaxTrack" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
-                            ChiVaxTrack
+                            ENGR:2730 Computers in Engineering
                             </h2>
                             <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://chivaxtrack.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Website</a>
-                                <a href="https://github.com/imedra/ChiVaxTrack" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                <a href="https://github.com/Nick-Hageman/ENGR-2730-Computers-in-Engineering/tree/main/Asteroids" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                             </div>
-                            <p>A Student-made COVID-19 vaccine tracker for the City of Chicago.</p>
+                            <p>Added features to "Asteroids" using topics including: OOP, dynamic memory allocation, SFML library, composition, inheritance, and polymorphism.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-outline">React</div> 
-                            <div className="badge badge-outline">TailwindCSS</div> 
-                            <div className="badge badge-outline">Axios</div> 
-                            </div>
-                        </div>
-                    </div>
-                    <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="/shrtnninja.png" alt="shrtn.ninja" /></figure>
-                        <div className="card-body">
-                            <h2 className="card-title">
-                            shrtn.ninja
-                            </h2>
-                            <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://shrnk-ninja.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Website</a>
-                                <a href="https://github.com/imedra/shrtn.ninja" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
-                            </div>
-                            <p>A simple URL shortener service.</p>
-                            <div className="card-actions justify-end">
-                            <div className="badge badge-outline">MongoDB</div>
-                            <div className="badge badge-outline">Mongoose</div> 
-                            <div className="badge badge-outline">Express</div>
+                            <div className="badge badge-accent badge-outline">Teaching Assistant</div>
+                            <div className="badge badge-outline">C++</div> 
+                            <div className="badge badge-outline">SFML</div> 
+                            <div className="badge badge-outline">CMake</div> 
                             </div>
                         </div>
                     </div>

@@ -9,17 +9,17 @@ export default function Contact (props) {
             </h1> 
             <div>
               <span className="footer-title">Socials</span> 
-              <a href="https://github.com/marcreniel" target="_blank" rel="noopener noreferrer" className="link link-hover">GitHub</a> 
-              <a href="https://twitter.com/notMarc_" target="_blank" rel="noopener noreferrer" className="link link-hover">Twitter</a> 
-              <a href="https://www.linkedin.com/in/marcreniel" target="_blank" rel="noopener noreferrer" className="link link-hover">LinkedIn</a> 
+              <a href="http://www.linkedin.com/in/nicholas-hageman-303aa721b" target="_blank" rel="noopener noreferrer" className="link link-hover">LinkedIn</a> 
+              <a href="https://github.com/Nick-Hageman" target="_blank" rel="noopener noreferrer" className="link link-hover">GitHub</a> 
+              <a href="https://discordapp.com/users/1920" target="_blank" rel="noopener noreferrer" className="link link-hover">Discord</a> 
             </div> 
            <div>
             <span className="footer-title">Email</span> 
-            <a href="mailto:marcbernardino2005@gmail.com"className="link link-hover">marc@notmarc.me</a>
+            <a href="mailto:nicholas-hageman@uiowa.edu"className="link link-hover">nicholas-hageman@uiowa.edu</a>
           </div>
           <div>
             <span className="footer-title">Resume</span> 
-            <a href="resume.pdf" target="_blank" rel="noopener noreferrer" className="link link-hover">View Resume</a> 
+            <a href="NickHageman_Resume2023.pdf" target="_blank" rel="noopener noreferrer" className="link link-hover">View Resume</a> 
           </div>
       </div>
       </div>    

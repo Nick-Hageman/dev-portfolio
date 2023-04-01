@@ -34,3 +34,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#images
+/public/asteroids.PNG
+/public/github.PNG
+/public/hawktalk.PNG
+/public/hawktalk.PNG
+
+/public/hawktalk2.PNG
+/public/hawktalk3.PNG
+/public/hawktalk4.PNG
+/public/hawktalk5.PNG
+/public/hawktalk6.PNG
+/public/hawktalk7.PNG
+/public/pfp3.JPG
+/public/pfp.jpg
