@@ -14,7 +14,7 @@ export default function Index() {
         <Head>
           <title>Nick Hageman</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <link rel="icon" href="/favicon.PNG"/>
+          <link rel="icon" href="favicon.png"/>
         </Head>
         <Navbar/>
         <Parallax speed={-25}>
