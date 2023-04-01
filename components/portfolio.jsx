@@ -7,7 +7,7 @@ export default function Portfolio (props) {
                 </h1>
                 <div className="flex flex-col xl:space-x-5 xl:flex-row">
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                                <figure><img src="/hagemanhomes1.png" alt="Maple" /></figure>
+                                <figure><img src="hagemanhomes1.png" alt="Maple" /></figure>
                                 <div className="card-body">
                                     <h2 className="card-title">
                                     Real Estate Business Web Application
@@ -27,7 +27,7 @@ export default function Portfolio (props) {
                                 </div>
                         </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/hawktalk1.png" alt="Maple" /></figure>
+                        <figure><img src="hawktalk1.png" alt="Maple" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                             Hawk Talk
@@ -46,7 +46,7 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/bioneos.png" alt="Pynq" /></figure>
+                        <figure><img src="bioneos.png" alt="Pynq" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                                 Plant Hydration Monitor 
@@ -64,7 +64,7 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="/nbaml.png" alt="discordCGPT" /></figure>
+                        <figure><img src="nbaml.png" alt="discordCGPT" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                             NBA Data Machine Learning Competition
@@ -84,7 +84,7 @@ export default function Portfolio (props) {
                 </div>
                     <div className="flex flex-col lg:space-x-5 lg:flex-row">
                         <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="/hackuiowa22.png" alt="Headphones" /></figure>
+                            <figure><img src="hackuiowa22.png" alt="Headphones" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                             Plate Scraper
@@ -103,7 +103,7 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="/asteroids2.png" alt="ChiVaxTrack" /></figure>
+                            <figure><img src="asteroids2.png" alt="ChiVaxTrack" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                             ENGR:2730 Computers in Engineering

@@ -12,7 +12,7 @@ export default function Landing (props) {
                         delay: 0.125,
                         ease: [0, 0.71, 0.2, 1.01]
                         }}
-                        src="/hand.png" className="object-contain h-32 max-w-sm rounded-lg pr-32 pb-5 sm:mr-0 sm:pb-0 sm:h-20 sm:pr-5"></motion.img>
+                        src="hand.png" className="object-contain h-32 max-w-sm rounded-lg pr-32 pb-5 sm:mr-0 sm:pb-0 sm:h-20 sm:pr-5"></motion.img>
                 <div className="flex flex-col">
                     <motion.h2
                         initial={{ opacity: 0, scale: 0.5 }}
