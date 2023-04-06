@@ -1,4 +1,4 @@
-Website Template Source: https://github.com/marcreniel
+Next.js and Tailwind Template Source: https://github.com/marcreniel
 
 ## Setup
 
