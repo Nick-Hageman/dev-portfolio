@@ -9,7 +9,7 @@ export default function Portfolio (props) {
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
                                     <figure>
                                         <video width="750" height="500" controls autoPlay muted loop>
-                                            <source src="/HagemanHomesDemo1.mp4" type="video/mp4"/>
+                                            <source src="/HagemanHomesDemo.mp4" type="video/mp4"/>
                                         </video>
                                     </figure>
                                 <div className="card-body">
