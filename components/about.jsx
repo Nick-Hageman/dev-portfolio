@@ -11,13 +11,16 @@ export default function About (props) {
                 </h1> 
                 <p className="my-5 text-lg lg:pr-24">My name is <span className="font-bold">Nick Hageman</span>. I am currently a sophomore at the University of Iowa pursuing a bachelor&apos;s degree in Computer Science & Engineering. I&apos;m interested in all things technology, especially Web Application Development, Embedded Software and Machine Learning.</p>
                 <h3 className="mb-2 text-l">
-                <span className="font-bold">Languages</span>: C++, Python, JavaScript, HTML, CSS, Java, MATLAB
+                <span className="font-bold">Languages</span>: C++, Python, Java, JavaScript, HTML, CSS, MATLAB
                 </h3>
                 <h3 className="mb-2 text-l">
                 <span className="font-bold">Technologies</span>: React.js, Node.js, AWS, Docker, Git
                 </h3>
                 <h3 className="mb-2 text-l">
-                <span className="font-bold">Notable Experience</span>: Bio::Neos Internship, UIowa Teaching Assistant, HackUIowa 2022
+                <span className="font-bold">Engineering Experience</span>: John Deere SWE Intern, Bio::Neos Software Development Intern
+                </h3> 
+                <h3 className="mb-2 text-l">
+                <span className="font-bold">Notable Experience</span>: UIowa Teaching Assistant, HackUIowa 2022
                 </h3> 
             </div>
           </div>
