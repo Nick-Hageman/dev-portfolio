@@ -7,7 +7,7 @@ export default function Portfolio (props) {
                 </h1>
                 <div className="flex flex-col xl:space-x-5 xl:flex-row">
                 <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="FarmVision2.PNG" alt="discordCGPT" /></figure>
+                        <figure><img src="FarmVision2.png" alt="FarmVision" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                             FarmVision
