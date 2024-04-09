@@ -1,0 +1,1160 @@
+{
+  "\u0000/home/runner/work/dev-portfolio/dev-portfolio/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/dayjs.min.js?commonjs-module": [],
+  "\u0000/home/runner/work/dev-portfolio/dev-portfolio/node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [],
+  "\u0000/home/runner/work/dev-portfolio/dev-portfolio/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "\u0000vite:asset:public/images/a-paris-1.jpg": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "\u0000vite:asset:public/images/a-paris-2.jpg": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "\u0000vite:asset:public/images/a-paris-3.jpg": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "\u0000vite:asset:public/images/a-paris-4.jpg": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "\u0000vite:asset:public/images/a-paris-5.jpg": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-example1.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-example2.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-example3.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-monster-w100-brightness-w010-s04-e08-pattern-w010-s04-e08.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w015-s01-e10.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w025-s04-e08.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w100.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w125.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w140.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w150.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w160.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-monster-w170.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-original.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-qr.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-multi-cn-settings.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-non-square-example1.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-non-square-example3.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-non-square-resize.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-non-square-toolkit.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-perspective-ep1.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-perspective-ep2.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-bird.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-buildings.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-feather.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-katana-swords.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-lace.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-leaf.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-ribbon.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-shibori-patterns.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-snow.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-prompt-wave.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-qr-struct.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-render-type.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-selective-layer-1.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-selective-layer-2.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-text-input1.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-text-input2.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-text-result1.jpg": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-text-result2.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-toolkit-scanner.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-101-xyz.png": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-controlnet-config.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-examples-grid.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-final.jpg": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-ines.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-original.jpg": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-overlay-inpaint.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-ps-layers.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-4.jpg": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-5.jpg": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-1.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-2.png": [
+    "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-3.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-4.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-final-1.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-compare-final-2.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-distort-1.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-distort-2.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-distort-result.png": [
+    "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-final.jpg": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-generate-1.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-generate-2.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-input-compare.jpg": [
+    "/assets/ai-qrcode-refine-distort-result--B2CRERD.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-no-anchor.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-plus-sign.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-refine-qrbft.png": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-t2i.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/ai-qrcode-upscale.png": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "\u0000vite:asset:public/images/animated-svg-logo-mask.png": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "\u0000vite:asset:public/images/animated-svg-logo-redraw.png": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "\u0000vite:asset:public/images/animated-svg-logo-vector.png": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "\u0000vite:asset:public/images/discover-windicss-zh.png": [
+    "/assets/reimagine-atomic-css-zh-GMhe2cty.js"
+  ],
+  "\u0000vite:asset:public/images/discover-windicss.png": [
+    "/assets/reimagine-atomic-css-Raq2hrE0.js"
+  ],
+  "\u0000vite:asset:public/images/github-inbox-dark.png": [
+    "/assets/github-inbox-dark-f7XNTL_X.js"
+  ],
+  "\u0000vite:asset:public/images/github-inbox-light.png": [
+    "/assets/github-inbox-dark-f7XNTL_X.js"
+  ],
+  "\u0000vite:asset:public/images/ios-qrcode-scanner.jpg": [
+    "/assets/QRNotScannable-RniufH0y.js"
+  ],
+  "\u0000vite:asset:public/images/issue-close-without-repro-dark.png": [
+    "/assets/github-inbox-dark-f7XNTL_X.js"
+  ],
+  "\u0000vite:asset:public/images/issue-close-without-repro-light.png": [
+    "/assets/github-inbox-dark-f7XNTL_X.js"
+  ],
+  "\u0000vite:asset:public/images/logo-histoire.svg": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/logo-nuxt3.svg": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/logo-termui.svg": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/logo-vite-node.svg": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/logo-vitest.svg": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/nuxt-vite-node-hmr.png": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "\u0000vite:asset:public/images/oss-mental-iron-triangle-zh.svg": [
+    "/assets/mental-health-oss-zh-CAVsIRUr.js"
+  ],
+  "\u0000vite:asset:public/images/oss-mental-iron-triangle.svg": [
+    "/assets/mental-health-oss-dVKU6VcI.js"
+  ],
+  "\u0000vite:asset:public/images/prettier-print-width.png": [
+    "/assets/prettier-print-width-UOSnocnv.js"
+  ],
+  "\u0000vite:asset:public/images/unocss-on-demand-way-zh.png": [
+    "/assets/reimagine-atomic-css-zh-GMhe2cty.js"
+  ],
+  "\u0000vite:asset:public/images/unocss-on-demand-way.png": [
+    "/assets/reimagine-atomic-css-Raq2hrE0.js"
+  ],
+  "\u0000vite:asset:public/images/unocss-traditional-way-zh.png": [
+    "/assets/reimagine-atomic-css-zh-GMhe2cty.js"
+  ],
+  "\u0000vite:asset:public/images/unocss-traditional-way.png": [
+    "/assets/reimagine-atomic-css-Raq2hrE0.js"
+  ],
+  "\u0000vite:asset:public/logo.svg": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=pages-generated": [],
+  "../../../../../__uno.css": [],
+  "assets/app-!~{001}~.js-unocss-hash.css": [],
+  "demo/2023-01-13.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-01-13.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-03-29.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-03-29.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-05-17.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-05-17.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-08-24.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-08-24.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-09-25.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2023-09-25.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2024-01-01.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/2024-01-01.mp4?url": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "demo/data.ts": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "index.html": [],
+  "node_modules/.pnpm/@floating-ui+core@1.3.1/node_modules/@floating-ui/core/dist/floating-ui.core.browser.min.mjs": [],
+  "node_modules/.pnpm/@floating-ui+dom@1.1.1/node_modules/@floating-ui/dom/dist/floating-ui.dom.browser.min.mjs": [],
+  "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/index.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/textmate.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/types.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/@shikijs+core@1.2.0/node_modules/@shikijs/core/dist/wasm-inlined.mjs": [
+    "/assets/wasm-4nFaDgOp.js"
+  ],
+  "node_modules/.pnpm/@shikijs+twoslash@1.2.0_typescript@5.4.3/node_modules/@shikijs/twoslash/style-rich.css": [],
+  "node_modules/.pnpm/@unhead+dom@1.8.20/node_modules/@unhead/dom/dist/index.mjs": [],
+  "node_modules/.pnpm/@unhead+shared@1.8.20/node_modules/@unhead/shared/dist/index.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@1.8.20_vue@3.4.21/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@1.8.20_vue@3.4.21/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs": [],
+  "node_modules/.pnpm/@unocss+reset@0.58.6/node_modules/@unocss/reset/tailwind.css": [],
+  "node_modules/.pnpm/@vue+reactivity@3.4.21/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.4.21/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.4.21/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+shared@3.4.21/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.21/node_modules/@vueuse/core/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+shared@10.9.0_vue@3.4.21/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/dayjs.min.js": [],
+  "node_modules/.pnpm/dayjs@1.11.10/node_modules/dayjs/plugin/localizedFormat.js": [],
+  "node_modules/.pnpm/diff-match-patch-es@0.1.0/node_modules/diff-match-patch-es/dist/index.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/floating-vue@2.0.0-beta.24_vue@3.4.21/node_modules/floating-vue/dist/floating-vue.mjs": [],
+  "node_modules/.pnpm/floating-vue@2.0.0-beta.24_vue@3.4.21/node_modules/floating-vue/dist/style.css": [],
+  "node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs": [],
+  "node_modules/.pnpm/markdown-it-github-alerts@0.3.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-base.css": [],
+  "node_modules/.pnpm/markdown-it-github-alerts@0.3.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-colors-dark-class.css": [],
+  "node_modules/.pnpm/markdown-it-github-alerts@0.3.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-colors-light.css": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "node_modules/.pnpm/ohash@1.1.3/node_modules/ohash/dist/index.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/pinia@2.1.7_typescript@5.4.3_vue@3.4.21/node_modules/pinia/dist/pinia.mjs": [],
+  "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/core.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/renderer.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/style.css": [],
+  "node_modules/.pnpm/shiki-magic-move@0.3.4_shiki@1.2.0_vue@3.4.21/node_modules/shiki-magic-move/dist/vue.mjs": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/coffee.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/css.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/graphql.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/html-derivative.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/html.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/javascript.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/json.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/json5.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/jsonc.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/jsx.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/less.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/markdown-vue.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/markdown.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/pug.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/sass.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/scss.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/stylus.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/toml.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/tsx.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/typescript.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/vue-directives.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/vue-interpolations.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/vue-sfc-style-variable-injection.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/vue.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/langs/yaml.mjs": [
+    "/assets/vue-GR_AWFJy.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/themes/vitesse-dark.mjs": [
+    "/assets/vitesse-dark-jCpginLY.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/themes/vitesse-light.mjs": [
+    "/assets/vitesse-light-W1hZpt2R.js"
+  ],
+  "node_modules/.pnpm/shiki@1.2.0/node_modules/shiki/dist/wasm.mjs": [
+    "/assets/wasm-4nFaDgOp.js"
+  ],
+  "node_modules/.pnpm/unhead@1.8.20/node_modules/unhead/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.23.6_vite@5.1.6_vue-router@4.2.5_vue@3.4.21/node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.23.6_vite@5.1.6_vue-router@4.2.5_vue@3.4.21/node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.23.6_vite@5.1.6_vue-router@4.2.5_vue@3.4.21/node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [],
+  "node_modules/.pnpm/vue-demi@0.14.7_vue@3.4.21/node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/.pnpm/vue-router-better-scroller@0.0.0_vue-router@4.2.5_vue@3.4.21/node_modules/vue-router-better-scroller/dist/index.mjs": [],
+  "node_modules/.pnpm/vue-router@4.2.5_vue@3.4.21/node_modules/vue-router/dist/vue-router.mjs": [],
+  "pages/[...404].md": [
+    "/assets/_...404_-Owahoxh5.js"
+  ],
+  "pages/bookmarks.md": [
+    "/assets/bookmarks-fXe6312V.js"
+  ],
+  "pages/chat-zh.md": [
+    "/assets/chat-zh-J0nVV8QJ.js"
+  ],
+  "pages/chat.md": [
+    "/assets/chat-nHWMPQel.js"
+  ],
+  "pages/demos.md": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "pages/giving-talks.md": [
+    "/assets/giving-talks-3Fdx-Nj9.js"
+  ],
+  "pages/index.md": [],
+  "pages/notes.md": [
+    "/assets/notes-CwoTxGUi.js"
+  ],
+  "pages/podcasts.md": [
+    "/assets/podcasts-t6w54Ztv.js"
+  ],
+  "pages/posts/about-yak-shaving-zh.md": [
+    "/assets/about-yak-shaving-zh-bXrZ-V0J.js"
+  ],
+  "pages/posts/about-yak-shaving.md": [
+    "/assets/about-yak-shaving-btzdoYvG.js"
+  ],
+  "pages/posts/ai-qrcode-101.md": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "pages/posts/ai-qrcode-refine.md": [
+    "/assets/ai-qrcode-refine-Qp52cEHw.js"
+  ],
+  "pages/posts/ai-qrcode.md": [
+    "/assets/ai-qrcode-Nh1A0_rA.js"
+  ],
+  "pages/posts/animated-svg-logo.md": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "pages/posts/async-with-composition-api.md": [
+    "/assets/async-with-composition-api-b7LXf8g5.js"
+  ],
+  "pages/posts/binfe-2020-zh.md": [
+    "/assets/binfe-2020-zh-t1rOYVyS.js"
+  ],
+  "pages/posts/bonjour-paris.md": [
+    "/assets/bonjour-paris-wwZJN6pd.js"
+  ],
+  "pages/posts/break-lines-in-js.md": [
+    "/assets/break-lines-in-js-FJE6r3K1.js"
+  ],
+  "pages/posts/color-scheme-for-vscode-ext.md": [
+    "/assets/color-scheme-for-vscode-ext-deOmGdYN.js"
+  ],
+  "pages/posts/composable-vue-vueconf-china-2021.md": [
+    "/assets/composable-vue-vueconf-china-2021-PeWkDXkQ.js"
+  ],
+  "pages/posts/composable-vue-vueday-2021.md": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "pages/posts/destructuring-with-object-or-array.md": [
+    "/assets/destructuring-with-object-or-array-uqoGd9-2.js"
+  ],
+  "pages/posts/dev-ssr-on-nuxt.md": [
+    "/assets/dev-ssr-on-nuxt-gO08gpdP.js"
+  ],
+  "pages/posts/domain-email.md": [
+    "/assets/domain-email-dbX-1SPe.js"
+  ],
+  "pages/posts/eslint-config-inspector.md": [
+    "/assets/eslint-config-inspector-gFUroeWB.js"
+  ],
+  "pages/posts/evolution-of-shiki-v1.md": [
+    "/assets/evolution-of-shiki-v1-1ZfWKfhw.js"
+  ],
+  "pages/posts/get-package-root.md": [
+    "/assets/get-package-root-YPo1ZE_2.js"
+  ],
+  "pages/posts/github-alerts.md": [
+    "/assets/github-alerts-zx8BmtCJ.js"
+  ],
+  "pages/posts/github-co-authors.md": [
+    "/assets/github-co-authors-Z0DZKWTa.js"
+  ],
+  "pages/posts/icons-in-pure-css-zh.md": [
+    "/assets/icons-in-pure-css-zh-8w1Mk4NP.js"
+  ],
+  "pages/posts/icons-in-pure-css.md": [
+    "/assets/icons-in-pure-css-i-aTcGxG.js"
+  ],
+  "pages/posts/index.md": [
+    "/assets/index-LLMZ_fmu.js"
+  ],
+  "pages/posts/introducing-nuxt-devtools.md": [
+    "/assets/introducing-nuxt-devtools-iZQoR8-H.js"
+  ],
+  "pages/posts/introduction-to-vitest-vue-nation-2022.md": [
+    "/assets/introduction-to-vitest-vue-nation-2022-WPWV_uuh.js"
+  ],
+  "pages/posts/isomorphic-dirname.md": [
+    "/assets/isomorphic-dirname-RyYZ3rlv.js"
+  ],
+  "pages/posts/journey-with-icons-continues.md": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "pages/posts/journey-with-icons.md": [
+    "/assets/journey-with-icons-lQcQNsFy.js"
+  ],
+  "pages/posts/make-libraries-working-with-vue-2-and-3.md": [
+    "/assets/make-libraries-working-with-vue-2-and-3-RTYEAAR7.js"
+  ],
+  "pages/posts/manage-github-notifcations-2023.md": [
+    "/assets/manage-github-notifcations-2023-gx5UonhI.js"
+  ],
+  "pages/posts/match-chinese-characters.md": [
+    "/assets/match-chinese-characters-B8sKAn_3.js"
+  ],
+  "pages/posts/match-quotes-in-pairs.md": [
+    "/assets/match-quotes-in-pairs-kN5BIv5j.js"
+  ],
+  "pages/posts/mental-health-oss-zh.md": [
+    "/assets/mental-health-oss-zh-CAVsIRUr.js"
+  ],
+  "pages/posts/mental-health-oss.md": [
+    "/assets/mental-health-oss-dVKU6VcI.js"
+  ],
+  "pages/posts/netlify-redirects.md": [
+    "/assets/netlify-redirects-Kvk8-sgF.js"
+  ],
+  "pages/posts/new-house.md": [
+    "/assets/new-house-WdPZJ6H-.js"
+  ],
+  "pages/posts/new-ways-to-vue-london-2021.md": [
+    "/assets/new-ways-to-vue-london-2021-7Vlru5Dy.js"
+  ],
+  "pages/posts/new-ways-to-vue-taiwan-2021.md": [
+    "/assets/new-ways-to-vue-taiwan-2021-LMuOPNGG.js"
+  ],
+  "pages/posts/now-and-future-devtools-nuxt-nation-2023.md": [
+    "/assets/now-and-future-devtools-nuxt-nation-2023-BjYzL3aM.js"
+  ],
+  "pages/posts/npm-binary-mirrors.md": [
+    "/assets/npm-binary-mirrors-d4wBoMdn.js"
+  ],
+  "pages/posts/nuxt-devtools-v1.md": [
+    "/assets/nuxt-devtools-v1-fxhUII2_.js"
+  ],
+  "pages/posts/nuxt-dx-2023.md": [
+    "/assets/nuxt-dx-2023-RHdPm2Dt.js"
+  ],
+  "pages/posts/nuxt-dx-strasbourg-2023.md": [
+    "/assets/nuxt-dx-strasbourg-2023-Xlh1pt81.js"
+  ],
+  "pages/posts/optimize-await.md": [
+    "/assets/optimize-await-YANYGzxe.js"
+  ],
+  "pages/posts/patterns-of-vueuse-vuefes-japan-2022.md": [
+    "/assets/patterns-of-vueuse-vuefes-japan-2022-vxd9UH32.js"
+  ],
+  "pages/posts/pnpm-external-disk.md": [
+    "/assets/pnpm-external-disk-wNtMda0I.js"
+  ],
+  "pages/posts/publish-esm-and-cjs.md": [
+    "/assets/publish-esm-and-cjs-nH8Swxjo.js"
+  ],
+  "pages/posts/range-in-javascript.md": [
+    "/assets/range-in-javascript-vAQFY358.js"
+  ],
+  "pages/posts/reflection-of-speaking-in-public.md": [
+    "/assets/reflection-of-speaking-in-public-B_SXDP1f.js"
+  ],
+  "pages/posts/reimagine-atomic-css-zh.md": [
+    "/assets/reimagine-atomic-css-zh-GMhe2cty.js"
+  ],
+  "pages/posts/reimagine-atomic-css.md": [
+    "/assets/reimagine-atomic-css-Raq2hrE0.js"
+  ],
+  "pages/posts/rewrite-in-vite.md": [
+    "/assets/rewrite-in-vite-KI3PqRLH.js"
+  ],
+  "pages/posts/roads-to-oss-progressive-vueams-2024.md": [
+    "/assets/roads-to-oss-progressive-vueams-2024-k31ci5Pb.js"
+  ],
+  "pages/posts/roads-to-oss-set-theory-react-paris-2024.md": [
+    "/assets/roads-to-oss-set-theory-react-paris-2024-DYKEOGAJ.js"
+  ],
+  "pages/posts/roads-to-oss-set-theory-viteconf-2023.md": [
+    "/assets/roads-to-oss-set-theory-viteconf-2023-g2tIV_6L.js"
+  ],
+  "pages/posts/roads-to-oss-set-theory-vuefesjapan-2023.md": [
+    "/assets/roads-to-oss-set-theory-vuefesjapan-2023-zjgAg3Uz.js"
+  ],
+  "pages/posts/shiki-magic-move.md": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "pages/posts/shikiji-twoslash.md": [
+    "/assets/shikiji-twoslash-SexKFGEv.js"
+  ],
+  "pages/posts/sliding-enter-animation.md": [
+    "/assets/sliding-enter-animation-KN_ZPFHK.js"
+  ],
+  "pages/posts/type-inferencing-in-vue.md": [
+    "/assets/type-inferencing-in-vue-fOq4LB6q.js"
+  ],
+  "pages/posts/type-your-config.md": [
+    "/assets/type-your-config-kzZGX9rd.js"
+  ],
+  "pages/posts/typed-provide-and-inject-in-vue.md": [
+    "/assets/typed-provide-and-inject-in-vue-H3pXVPma.js"
+  ],
+  "pages/posts/types-for-sub-modules.md": [
+    "/assets/types-for-sub-modules-NAwxXzcI.js"
+  ],
+  "pages/posts/vite-on-demand-dx-viteconf-2022.md": [
+    "/assets/vite-on-demand-dx-viteconf-2022-4voxyroI.js"
+  ],
+  "pages/posts/vue-3-notes.md": [
+    "/assets/vue-3-notes-hDTjjFfF.js"
+  ],
+  "pages/posts/vue-beijing-2021.md": [
+    "/assets/vue-beijing-2021-M41we3Xc.js"
+  ],
+  "pages/posts/vueuse-best-practice-vueconf-china-2022.md": [
+    "/assets/vueuse-best-practice-vueconf-china-2022-jC9hWXxE.js"
+  ],
+  "pages/posts/watch-with-reactivity.md": [
+    "/assets/watch-with-reactivity-e4y5dPql.js"
+  ],
+  "pages/posts/why-not-prettier-zh.md": [
+    "/assets/why-not-prettier-zh-RvwbzcHW.js"
+  ],
+  "pages/posts/why-not-prettier.md": [
+    "/assets/why-not-prettier-5XyOhdxC.js"
+  ],
+  "pages/posts/why-reproductions-are-required-zh.md": [
+    "/assets/why-reproductions-are-required-zh-dcSoAMPp.js"
+  ],
+  "pages/posts/why-reproductions-are-required.md": [
+    "/assets/why-reproductions-are-required-idu1IdbV.js"
+  ],
+  "pages/posts/windicss-and-tailwind-jit.md": [
+    "/assets/windicss-and-tailwind-jit-t20tzFzu.js"
+  ],
+  "pages/projects.md": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "pages/sponsors-list.md": [
+    "/assets/sponsors-list-KydWqYBf.js"
+  ],
+  "pages/streams.md": [
+    "/assets/streams-jokpAd25.js"
+  ],
+  "pages/talks.md": [
+    "/assets/talks-Mog1v-Ad.js"
+  ],
+  "public/sponsors.svg?component": [
+    "/assets/sponsors-list-KydWqYBf.js"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/CalCom.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/CalCom.vue_vue_type_script_setup_true_lang-TvLbDV73.js"
+  ],
+  "src/components/Footer.vue": [],
+  "src/components/GitHubLink.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/GitHubLink.vue_vue_type_script_setup_true_lang-W-4yFDkj.js"
+  ],
+  "src/components/ListDemos.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang-xHZU4HLA.js"
+  ],
+  "src/components/ListProjects.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/ListProjects.vue?vue&type=style&index=0&scoped=5d3c3de5&lang.css": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/Logo.vue": [],
+  "src/components/Logo.vue?vue&type=style&index=0&scoped=fd85c3e5&lang.css": [],
+  "src/components/LogoStroke.vue": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "src/components/LogoStroke.vue?vue&type=style&index=0&scoped=e51ab784&lang.css": [
+    "/assets/animated-svg-logo-ljxkrV-l.js",
+    "/assets/animated-svg-logo-8T7YcC_E.css"
+  ],
+  "src/components/NavBar.vue": [],
+  "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=20f56d91&lang.css": [],
+  "src/components/Plum.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/SponsorButton.vue": [
+    "/assets/SponsorButton-xyW_qA2D.js"
+  ],
+  "src/components/StreamAnnouncement.vue": [
+    "/assets/streams-jokpAd25.js"
+  ],
+  "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang-xHZU4HLA.js"
+  ],
+  "src/components/TalkDate.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/talks-Mog1v-Ad.js"
+  ],
+  "src/components/TextCopy.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/giving-talks-3Fdx-Nj9.js"
+  ],
+  "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/Tweet.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/Tweet.vue_vue_type_script_setup_true_lang-rS-7Dc5L.js"
+  ],
+  "src/components/WrapperDemo.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/demos-CPByg8br.js",
+    "/assets/2023-01-13-vim-r8PS.mp4",
+    "/assets/2023-03-29-iyNUGSo_.mp4",
+    "/assets/2023-05-17-G-81nHLD.mp4",
+    "/assets/2023-08-24-jiFvntrr.mp4",
+    "/assets/2023-09-25-ZX7J31pJ.mp4",
+    "/assets/2024-01-01-7EU1nGXU.mp4"
+  ],
+  "src/components/WrapperPost.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/YouTubeEmbed.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/YouTubeEmbed.vue_vue_type_script_setup_true_lang-FiWBBebI.js"
+  ],
+  "src/components/icons/AnthonyFu.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/Elk.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/Slidev.vue": [
+    "/assets/Slidev-1aFlKvBN.js"
+  ],
+  "src/components/icons/SolidLogo.vue": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "src/components/icons/Unocss.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/ViteLogo.vue": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "src/components/icons/Vitest.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/VueDemi.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/VueReactivity.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/icons/VueUse.vue": [
+    "/assets/projects-mkdnHivz.js",
+    "/assets/projects-3kh7VX0H.css"
+  ],
+  "src/components/qrcode/ImageMatrix.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeCompare.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeControlNetScale.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeMatrix.vue": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeMatrix.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeMatrix.vue?vue&type=style&index=0&scoped=188b6bf0&lang.css": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeMatrixModelPrompts.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeMatrixModelSamplers.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeOptionsSelect.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRCodeSelectiveLayers.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ai-qrcode-101-3sxtIxmN.js",
+    "/assets/ai-qrcode-101-DahVa5l3.css"
+  ],
+  "src/components/qrcode/QRNotScannable.vue": [
+    "/assets/QRNotScannable-RniufH0y.js"
+  ],
+  "src/components/shiki/ShikiMagicMoveDemo.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "src/components/shiki/ShikiMagicMoveDemoCode.ts": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "src/components/shiki/ShikiMagicMoveMatch.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "src/components/slides/DarkToggleButton.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/components/slides/Marker.vue": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/components/slides/MarkerCore.vue": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/components/slides/MarkerPattern.vue": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/components/slides/MarkerTips.vue": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/components/slides/VueUseFn.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/composable-vue-vueday-2021-MKPr6ABT.js"
+  ],
+  "src/logics/index.ts": [],
+  "src/main.ts": [],
+  "src/store/shiki.ts": [
+    "/assets/shiki-magic-move-g4n5n72Y.js"
+  ],
+  "src/styles/main.css": [],
+  "src/styles/markdown.css": [],
+  "src/styles/prose.css": [],
+  "~icons/ant-design/carry-out-twotone": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/bx/bx-planet": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/carbon/carbon": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/carbon/logo-github": [
+    "/assets/logo-github-Brc8t0bp.js"
+  ],
+  "~icons/eos-icons/installing": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/fa/beer": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/line-md/question-circle": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/javascript": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/nextjs-icon": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/nuxt-icon": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/preact": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/react": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/rollup": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/svelte-icon": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/vue": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/webcomponents": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/logos/webpack": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/mdi/alarm": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/mdi/material-design": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/mdi/progress-question": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/ph/circle-wavy-question-duotone": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/tabler/bolt": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/tabler/code": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/tabler/confetti": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/tabler/triangle-square-circle": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/tabler/writing-sign": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/twemoji/face-with-tears-of-joy": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/twemoji/star-struck": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ],
+  "~icons/uim/circle-layer": [
+    "/assets/journey-with-icons-continues-JyHdmNjv.js"
+  ]
+}
