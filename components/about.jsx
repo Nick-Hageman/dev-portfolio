@@ -9,7 +9,7 @@ export default function About (props) {
                 <h1 className="mb-5 text-4xl">
                 About <span className="font-bold">Me</span>
                 </h1> 
-                <p className="my-5 text-lg lg:pr-24">Experienced in the fields of Software Engineering, Applied AI/ML, and Human-Computer Interaction. I grew up in a small Iowa farm town (home to the Field of Dreams) and currently live in Iowa City. Outside of programming, I enjoy lifting weights, cooking, and watching UFC events. I'm always eager to learn new skills and technologies, so feel free to reach out regarding any software engineering related opportunities.</p>
+                <p className="my-5 text-lg lg:pr-24">Experienced in the fields of Software Engineering, Applied AI/ML, and Human-Computer Interaction. I grew up in a small Iowa farm town (home to the Field of Dreams) and currently live in Iowa City. Outside of programming, I enjoy lifting weights, cooking, and watching UFC events. I&apos;m always eager to learn new skills and technologies, so feel free to reach out regarding any software engineering related opportunities.</p>
                 <h3 className="mb-2 text-l">
                 <span className="font-bold">Languages</span>: C++, Python, Java, JavaScript, HTML, CSS, MATLAB
                 </h3>
