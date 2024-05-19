@@ -151,7 +151,7 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure><img src="slide1.png" alt="RGB-D Unsupervised Clustering" /></figure>
+                        <figure><img src="slide1.PNG" alt="RGB-D Unsupervised Clustering" /></figure>
                         <div className="card-body">
                             <h2 className="card-title">
                                 Unsupervised RGB-D Scene Categorization
