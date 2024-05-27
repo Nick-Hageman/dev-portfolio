@@ -115,18 +115,22 @@ export default function Portfolio (props) {
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
                                     <figure>
                                         <video width="750" height="500" controls autoPlay muted loop>
-                                            <source src="/VarFinalDemo.mp4" type="video/mp4"/>
+                                            <source src="/CageVision.mp4" type="video/mp4"/>
                                         </video>
                                     </figure>
                                 <div className="card-body">
                                     <h2 className="card-title">
-                                    The Gauntlet
+                                    CageVision
                                     </h2>
-                                    <p>Created a multi-stage game comprised of various challenges for our Virtual & Augmented Reality final project. Some of the challenges explored the mechanics of zero gravity, propulsion, enemy collision detection, animations, and AI navigation.</p>
+                                    <div className="flex flex-col md:flex-row space-x-2">
+                                        <a href="https://github.com/Nick-Hageman/CageVision" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                    </div>
+                                    <p>Created a spatial application which utilized an MMA API to gather upcoming event information to be displayed in a visionOS window. Conceptualized viewing MMA matches in augmented reality by introducing a 3D model of an octagon placed on a flat surface.</p>
                                     <div className="card-actions justify-end">
-                                    <div className="badge badge-accent badge-outline">ECE:5995 VAR</div>
-                                    <div className="badge badge-outline">Unity</div>
-                                    <div className="badge badge-outline">C#</div>
+                                    <div className="badge badge-outline">Swift</div>
+                                    <div className="badge badge-outline">visionOS</div>
+                                    <div className="badge badge-outline">Xcode</div>
+                                    <div className="badge badge-outline">Swift</div>
                                     </div>
                                 </div>
                         </div>
@@ -194,24 +198,23 @@ export default function Portfolio (props) {
                             </div>
                         </div>
                     </div>
-                        <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                            <figure><img src="hackuiowa22.png" alt="Headphones" /></figure>
-                        <div className="card-body">
-                            <h2 className="card-title">
-                            Plate Scraper
-                            </h2>
-                            <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://github.com/Nick-Hageman/Hackathon2022" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
-                                <a href="https://devpost.com/software/plate-scraper" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>DEVPOST</a>
+                    <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
+                                <figure>
+                                    <video width="750" height="500" controls autoPlay muted loop>
+                                        <source src="/VarFinalDemo.mp4" type="video/mp4"/>
+                                    </video>
+                                </figure>
+                            <div className="card-body">
+                                <h2 className="card-title">
+                                The Gauntlet
+                                </h2>
+                                <p>Created a multi-stage game comprised of various challenges for our Virtual & Augmented Reality final project. Some of the challenges explored the mechanics of zero gravity, propulsion, enemy collision detection, animations, and AI navigation.</p>
+                                <div className="card-actions justify-end">
+                                <div className="badge badge-accent badge-outline">ECE:5995 VAR</div>
+                                <div className="badge badge-outline">Unity</div>
+                                <div className="badge badge-outline">C#</div>
+                                </div>
                             </div>
-                            <p>Led a hackathon team in designing a personalized version of the University&apos;s dining hall menu. Leveraged Selenium WebDriver to extract HTML data from University websites.</p>
-                            <div className="card-actions justify-end">
-                            <div className="badge badge-accent badge-outline">HackUIowa 2022</div>
-                            <div className="badge badge-outline">Python</div> 
-                            <div className="badge badge-outline">Selenium</div>
-                            <div className="badge badge-outline">Node.js</div>
-                            </div>
-                        </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
                         <figure>
