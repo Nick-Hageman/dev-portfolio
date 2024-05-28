@@ -130,7 +130,7 @@ export default function Portfolio (props) {
                                     <div className="badge badge-outline">Swift</div>
                                     <div className="badge badge-outline">visionOS</div>
                                     <div className="badge badge-outline">Xcode</div>
-                                    <div className="badge badge-outline">Swift</div>
+                                    <div className="badge badge-outline">RealityKit</div>
                                     </div>
                                 </div>
                         </div>
