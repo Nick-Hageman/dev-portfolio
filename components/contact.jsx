@@ -19,7 +19,7 @@ export default function Contact (props) {
           </div>
           <div>
             <span className="footer-title">Resume</span> 
-            <a href="hagemanNick_Resume2024.pdf" target="_blank" rel="noopener noreferrer" className="link link-hover">View Resume</a> 
+            <a href="nick_resume.pdf" target="_blank" rel="noopener noreferrer" className="link link-hover">View Resume</a> 
           </div>
       </div>
       </div>    
