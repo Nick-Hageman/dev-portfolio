@@ -5,7 +5,8 @@ export default function Portfolio (props) {
                 <h1 data-aos="zoom-out" className="mt-10 mb-8 text-4xl font-medium">
                     Portfolio
                 </h1>
-                <div className="flex flex-col xl:space-x-5 xl:flex-row">
+
+                <div className="flex flex-col xl:space-x-5 xl:flex-row">   
                 <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
                         <figure><img src="FarmVision2.png" alt="FarmVision" /></figure>
                         <div className="card-body">
@@ -27,6 +28,89 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
+                        <figure><img src="slopeStatsBanner2.png" alt="FarmVision" /></figure>
+                                <div className="card-body">
+                                    <h2 className="card-title">
+                                    SlopeStats
+                                    </h2>
+                                    <div className="flex flex-col md:flex-row space-x-2">
+                                        <a href="https://github.com/Nick-Hageman/SlopeStats" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                                    </div>
+                                    <p>🏂 SlopeStats is a watchOS + iOS app which has multiple modes of tracking activity for skiing & snowboarding. It offers run tracking (speed, heart rate, altitude), Speed Mode (Ghost racing), Resort & Weather Info (API)</p>
+                                    <div className="card-actions justify-end">
+                                    <div className="badge badge-outline">Swift</div>
+                                    <div className="badge badge-outline">SwiftUI</div>
+                                    <div className="badge badge-outline">Core Data</div>
+                                    <div className="badge badge-outline">CoreMotion</div>
+                                    <div className="badge badge-outline">HealthKit</div>
+                                    </div>
+                                </div>
+                        </div>
+                    <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
+                        <figure><img src="smartDartSketch.png" alt="FarmVision" /></figure>
+                        <div className="card-body">
+                            <h2 className="card-title">
+                            SmartDart
+                            </h2>
+                            <div className="flex flex-col md:flex-row space-x-2">
+                                <a href="https://engineering.uiowa.edu/news-all/2024/11/iowa-engineers-win-39500-iowa-innovation-challenge" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Featured Article</a>
+                            </div>
+                            <p>Secured $5,000 in funding for SmartDart: A computer-vision driven steel-tip dart system that combines accurate, automated scoring with dynamic solo gameplay and real-time feedback.</p>
+                            <div className="card-actions justify-end">
+                            <div className="badge badge-accent badge-outline">UIowa Innovation Challenge</div>
+                            <div className="badge badge-outline">Raspberry Pi</div>
+                            <div className="badge badge-outline">DeepDarts</div>
+                            <div className="badge badge-outline">Python</div>
+                            <div className="badge badge-outline">openCV</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
+                        <figure>
+                            <video width="750" height="500" controls autoPlay muted loop>
+                                <source src="/leetGPTDemo.mp4" type="video/mp4"/>
+                            </video>
+                        </figure>
+                        <div className="card-body">
+                            <h2 className="card-title">
+                                LeetGPT
+                            </h2>
+                            <div className="flex flex-col md:flex-row space-x-2">
+                                <a href="https://github.com/Nick-Hageman/LeetGPT" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
+                            </div>
+                            <p>Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI&apos;s ChatGPT Language Model API for generative solutions.</p>
+                            <div className="card-actions justify-end">
+                            <div className="badge badge-outline">OpenAI</div>
+                            <div className="badge badge-outline">React</div>
+                            <div className="badge badge-outline">Javascript</div>
+                            <div className="badge badge-outline">JSX</div>
+                            <div className="badge badge-outline">Chromium</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="flex flex-col xl:space-x-5 xl:flex-row">                    
+                <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
+                        <figure><img src="thermometer.jpeg" alt="FarmVision" /></figure>
+                        <div className="card-body">
+                            <h2 className="card-title">
+                            IoT Thermometer
+                            </h2>
+                            <div className="flex flex-col md:flex-row space-x-2">
+                                <a href="/ECE4880_Thermometer.pdf" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Lab Report</a>
+                            </div>
+                            <p>Created an IoT thermometer that communicates with a web server to provide the user with temperature values no later than 300 seconds ago. Withstanded water and drop tests. Conformed to strict design requirements.</p>
+                            <div className="card-actions justify-end">
+                            <div className="badge badge-accent badge-outline">ECE:4880 Senior Design</div>
+                            <div className="badge badge-outline">Python</div>
+                            <div className="badge badge-outline">Serial Communication</div>
+                            <div className="badge badge-outline">Arduino</div>
+                            <div className="badge badge-outline">JavaScript</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
                                     <figure>
                                         <video width="750" height="500" controls autoPlay muted loop>
                                             <source src="/HHOMES_DEMO.mp4" type="video/mp4"/>
@@ -37,7 +121,6 @@ export default function Portfolio (props) {
                                     Real Estate Business Web Application
                                     </h2>
                                     <div className="flex flex-col md:flex-row space-x-2">
-                                        <a href="https://hageman-homes.com" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Website</a>
                                         <a href="https://github.com/Nick-Hageman/Real-Estate-Webapp-2023" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
                                     </div>
                                     <p>Developed a web application for home builder&apos;s business. Implemented an interactive satellite map, 3D CAD Floorplans, and a Content Management Service (CMS).</p>
@@ -69,25 +152,18 @@ export default function Portfolio (props) {
                         </div>
                     </div>
                     <div className="card w-64 md:w-80 bg-mist-black my-3 shadow-xl">
-                        <figure>
-                            <video width="750" height="500" controls autoPlay muted loop>
-                                <source src="/leetGPTDemo.mp4" type="video/mp4"/>
-                            </video>
-                        </figure>
-                        <div className="card-body">
+                    <figure><img src="grafanaScreenshot.png" alt="MQTT dashboard" /></figure>
+                    <div className="card-body">
                             <h2 className="card-title">
-                                LeetGPT
+                                MQTT time-series data dashboard
                             </h2>
-                            <div className="flex flex-col md:flex-row space-x-2">
-                                <a href="https://github.com/Nick-Hageman/LeetGPT" target="_blank" rel="noopener noreferrer" className="badge hover:ring"><svg className="h-3 w-3 mr-1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a6adba"><path d="M6.188 8.719c.439-.439.926-.801 1.444-1.087 2.887-1.591 6.589-.745 8.445 2.069l-2.246 2.245c-.644-1.469-2.243-2.305-3.834-1.949-.599.134-1.168.433-1.633.898l-4.304 4.306c-1.307 1.307-1.307 3.433 0 4.74 1.307 1.307 3.433 1.307 4.74 0l1.327-1.327c1.207.479 2.501.67 3.779.575l-2.929 2.929c-2.511 2.511-6.582 2.511-9.093 0s-2.511-6.582 0-9.093l4.304-4.306zm6.836-6.836l-2.929 2.929c1.277-.096 2.572.096 3.779.574l1.326-1.326c1.307-1.307 3.433-1.307 4.74 0 1.307 1.307 1.307 3.433 0 4.74l-4.305 4.305c-1.311 1.311-3.44 1.3-4.74 0-.303-.303-.564-.68-.727-1.051l-2.246 2.245c.236.358.481.667.796.982.812.812 1.846 1.417 3.036 1.704 1.542.371 3.194.166 4.613-.617.518-.286 1.005-.648 1.444-1.087l4.304-4.305c2.512-2.511 2.512-6.582.001-9.093-2.511-2.51-6.581-2.51-9.092 0z"/></svg>Source</a>
-                            </div>
-                            <p>Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI&apos;s ChatGPT Language Model API for generative solutions.</p>
+                            <p>Implemented practical application of the Message Queuing Telemetry Transport (MQTT) protocol, specifically using a Raspberry Pi to collect, store, and visualize time-series data.</p>
                             <div className="card-actions justify-end">
-                            <div className="badge badge-outline">OpenAI</div>
-                            <div className="badge badge-outline">React</div>
-                            <div className="badge badge-outline">Javascript</div>
-                            <div className="badge badge-outline">JSX</div>
-                            <div className="badge badge-outline">Chromium</div>
+                            <div className="badge badge-accent badge-outline">ECE:5550 IoT</div>
+                            <div className="badge badge-outline">JavaScript</div>
+                            <div className="badge badge-outline">Grafana</div>
+                            <div className="badge badge-outline">MQTT</div>
+                            <div className="badge badge-outline">InfluxDB</div>
                             </div>
                         </div>
                     </div>
