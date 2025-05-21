@@ -6,6 +6,7 @@ import Landing from "../components/landing"
 import About from "../components/about"
 import Portfolio from "../components/portfolio"
 import Contact from "../components/contact"
+import ProjectsSection from "../components/projectsSection"
 
 export default function Index() {
   return (
@@ -15,6 +16,7 @@ export default function Index() {
           <title>Nick Hageman</title>
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="favicon.png"/>
+          <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"/>
         </Head>
         <Navbar/>
         <Parallax speed={-25}>
@@ -52,7 +54,8 @@ export default function Index() {
             <path fill="#e5e6e8" fillOpacity="1" d="M0,224L48,218.7C96,213,192,203,288,192C384,181,480,171,576,170.7C672,171,768,181,864,192C960,203,1056,213,1152,197.3C1248,181,1344,139,1392,117.3L1440,96L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
             </svg>
           </div>
-          <Portfolio id="portfolio"/>
+          {/* <Portfolio id="portfolio"/> */}
+          <ProjectsSection/>
           <div className="z-0 relative">
           <svg data-aos="zoom-out" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 180" className="absolute bottom-0">
             <path fill="#1e2837" fillOpacity="1" d="M0,96L80,96C160,96,320,96,480,112C640,128,800,160,960,160C1120,160,1280,128,1360,112L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
