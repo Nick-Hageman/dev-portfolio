@@ -177,9 +177,9 @@ const ProjectsSection = () => {
       description: "Secured $5,000 in funding for SmartDart: A computer-vision driven steel-tip dart system that combines accurate, automated scoring with dynamic solo gameplay and real-time feedback.",
       mediaItems: [
         { type: 'image', src: '/SmartDart/smartdart2.gif' },
-        { type: 'video', src: '/SmartDart/quickDemo.MP4' },
-        { type: 'image', src: '/SmartDart/modernMarvels.PNG' },
-        { type: 'image', src: '/SmartDart/innovationChallenge.PNG' }
+        { type: 'video', src: '/SmartDart/quickDemo.mp4' },
+        { type: 'image', src: '/SmartDart/modernMarvels.png' },
+        { type: 'image', src: '/SmartDart/innovationChallenge.png' }
       ],
       articleLink: "https://engineering.uiowa.edu/news-all/2024/11/iowa-engineers-win-39500-iowa-innovation-challenge",
       sourceLink: "https://github.com/Nick-Hageman/SmartDart",
@@ -215,7 +215,7 @@ const ProjectsSection = () => {
       mediaItems: [
         { type: 'video', src: '/FarmVision/farmvisionCropped.mp4' },
         { type: 'image', src: '/FarmVision/farmvision3.jpg' },
-        { type: 'image', src: '/FarmVision/farmvision2.PNG' },
+        { type: 'image', src: '/FarmVision/farmvision2.png' },
         { type: 'image', src: '/FarmVision/farmvision6.jpg' },
         { type: 'image', src: '/FarmVision/farmvision4.jpg' },
       ],
@@ -232,7 +232,7 @@ const ProjectsSection = () => {
     // LeetGPT
     {
       title: "LeetGPT",
-      icon: <img src="/LeetGPT/icon2.PNG" alt="SlopeStats icon" className="w-6 h-6 mr-0" />,
+      icon: <img src="/LeetGPT/icon2.png" alt="SlopeStats icon" className="w-6 h-6 mr-0" />,
       description: "Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI's ChatGPT Language Model API for generative solutions.",
       mediaItems: [
         { type: 'video', src: '/LeetGPT/leetGPTDemo.mp4' }
@@ -281,18 +281,18 @@ const ProjectsSection = () => {
     // YouTube Comment sentiment analysis
     {
       title: "MoodTube",
-      icon: <img src="/SentimentAnalysis/sentiment.PNG" alt="UFC" className="w-12 h-12 mr-0" />,
+      icon: <img src="/SentimentAnalysis/sentiment.png" alt="UFC" className="w-12 h-12 mr-0" />,
       description: "Fine-tuned a sentiment analysis model on YouTube comments. Created a chrome extension which did inference and visualized results by modifying the YouTube page's HTML.",
       mediaItems: [
-        { type: 'video', src: '/MoodTube/moodtubeSpedUp.MP4' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide1.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide2.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide3.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide4.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide5.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide6.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide7.PNG' },
-        { type: 'image', src: '/SentimentAnalysis/phase2/slide14.PNG' },
+        { type: 'video', src: '/MoodTube/moodtubeSpedUp.mp4' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide1.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide2.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide3.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide4.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide5.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide6.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide7.png' },
+        { type: 'image', src: '/SentimentAnalysis/phase2/slide14.png' },
       ],
       sourceLink: "https://github.com/Nick-Hageman/YouTube-sentiment-analysis",
       badges: [
@@ -324,12 +324,12 @@ const ProjectsSection = () => {
       title: "🧠Neural RGB-D Encoding",
       description: "Transmitting 3D data can be expensive, especially on hardware limited devices. Our approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.",
       mediaItems: [
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide1.PNG' },
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide2.PNG' },
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide3.PNG' },
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide4.PNG' },
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide5.PNG' },
-        { type: 'image', src: '/Neural_RGBD_Encoding/slide6.PNG' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide1.png' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide2.png' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide3.png' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide4.png' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide5.png' },
+        { type: 'image', src: '/Neural_RGBD_Encoding/slide6.png' },
       ],
       sourceLink: "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
       badges: [
@@ -343,7 +343,7 @@ const ProjectsSection = () => {
     // CageVision
     {
       title: "CageVision",
-      icon: <img src="/CageVision/ufc.PNG" alt="UFC" className="w-10 h-4 mr-0" />,
+      icon: <img src="/CageVision/ufc.png" alt="UFC" className="w-10 h-4 mr-0" />,
       description: "Created a spatial application which utilized an MMA API to gather upcoming event information to be displayed in a visionOS window. Conceptualized viewing MMA matches in augmented reality by introducing a 3D model of an octagon placed on a flat surface.",
       mediaItems: [
         { type: 'video', src: '/CageVision/CageVision.mp4' }
@@ -363,7 +363,7 @@ const ProjectsSection = () => {
       description: "Designed and constructed a handheld gaming device leveraging the capabilities of the ESP8266 module and a Raspberry Pi. The choice of game for our device was Pac-Man, a classic arcade game known for its straightforward yet challenging gameplay.",
       mediaItems: [
         { type: 'video', src: '/RetroController/pacmanClipped.mp4' },
-        { type: 'image', src: '/RetroController/embeddedTermProject.PNG' },
+        { type: 'image', src: '/RetroController/embeddedTermProject.png' },
       ],
       sourceLink: "https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems",
       badges: [
@@ -380,13 +380,13 @@ const ProjectsSection = () => {
       title: "🧠Unsupervised RGB-D Scene Categorization",
       description: "Clustered scenes from a short film using RGB-D data. Included the depth information for clustering as we thought it may enhance the scene representation in regards to spatial relationships.",
       mediaItems: [
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide1.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide2.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide3.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide4.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide6.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide7.PNG' },
-        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide8.PNG' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide1.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide2.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide3.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide4.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide6.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide7.png' },
+        { type: 'image', src: '/Unsupervised_RGBD_Scene_Categorization/slide8.png' },
       ],
       sourceLink: "https://github.com/Nick-Hageman/RGBD-Unsupervised-Clustering",
       badges: [
@@ -403,7 +403,7 @@ const ProjectsSection = () => {
       description: "Our team developed a multiplayer game with Generative AI components in the form of a SaaS application using the Rails web framework.",
       mediaItems: [
         { type: 'video', src: '/ShardsOfTheGrid/seltClipped.mp4' },
-        { type: 'image', src: '/ShardsOfTheGrid/team.PNG' },
+        { type: 'image', src: '/ShardsOfTheGrid/team.png' },
       ],
       sourceLink: "https://github.com/olduiowahjmjohnsonSELT2024/projectdirectory-selt_2024_team_003",
       badges: [
@@ -433,7 +433,7 @@ const ProjectsSection = () => {
     // The Gauntlet
     {
       title: "The Gauntlet",
-      icon: <img src="/Gauntlet/quest2.PNG" alt="VR" className="w-12 h-10" />,
+      icon: <img src="/Gauntlet/quest2.png" alt="VR" className="w-12 h-10" />,
       description: "Created a multi-stage game comprised of various challenges for our Virtual & Augmented Reality final project. Some of the challenges explored the mechanics of zero gravity, propulsion, enemy collision detection, animations, and AI navigation.",
       mediaItems: [
         { type: 'video', src: '/Gauntlet/VarFinalDemo.mp4' },
@@ -463,10 +463,10 @@ const ProjectsSection = () => {
     // Generative AI Content Pipeline
     {
       title: "Generative AI Content Pipeline",
-      icon: <img src="/GAIT/tiktok.PNG" alt="VR" className="w-8 h-8" />,
+      icon: <img src="/GAIT/tiktok.png" alt="VR" className="w-8 h-8" />,
       description: "Used multiple Generative AI Tools to automate the content generation process for platforms such as YouTube & TikTok.",
       mediaItems: [
-        { type: 'image', src: '/GAIT/diagram.PNG' },
+        { type: 'image', src: '/GAIT/diagram.png' },
       ],
       badges: [
         { text: "ECE:5995 Generative AI Tools", accent: true },
@@ -480,7 +480,7 @@ const ProjectsSection = () => {
       description: "Created a multiplayer game using purely Java. Inolved multithreading, networking, and database management. Was chosen as a top team to present to the class.",
       mediaItems: [
         { type: 'video', src: '/Werewolves/werewolvesClipped.mp4' },
-        { type: 'image', src: '/Werewolves/WerewolfUML.PNG' },
+        { type: 'image', src: '/Werewolves/WerewolfUML.png' },
       ],
       badges: [
         { text: "ECE:3330: Software Design", accent: true },
