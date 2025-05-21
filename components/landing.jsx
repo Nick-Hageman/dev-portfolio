@@ -52,7 +52,7 @@ export default function Landing (props) {
                             </svg>
                         </a>
                         <a href="https://www.instagram.com/nick.hageman/" target="_blank" rel="noopener noreferrer" className="transition ease-in-out delay-150 hover:scale-110 duration-300">
-                            <img src="instagram.PNG" alt="Instagram" width="24" height="24" />
+                            <img src="instagram.png" alt="Instagram" width="24" height="24" />
                         </a>
                     </motion.nav> 
                 </div>

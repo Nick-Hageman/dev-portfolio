@@ -4,7 +4,7 @@ export default function About (props) {
           <div className="flex flex-col md:flex-row-reverse">
             <div className="mt-10 mb-5">
               {/* <img src="pfp4.JPG" className="rounded-full scale-75 md:scale-100 shadow-2xl" alt="pfp"/> */}
-              <img src="sanDiegoNick.JPG" className="rounded-full scale-75 md:scale-100 shadow-2xl" alt="pfp"/>
+              <img src="sanDiegoNick.jpg" className="rounded-full scale-75 md:scale-100 shadow-2xl" alt="pfp"/>
             </div>
             <div className="text-gray-800 text-center font-mono px-6 md:text-left">
                 <h1 className="mb-5 text-4xl">
