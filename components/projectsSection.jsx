@@ -480,7 +480,7 @@ const ProjectsSection = () => {
       description: "Created a multiplayer game using purely Java. Inolved multithreading, networking, and database management. Was chosen as a top team to present to the class.",
       mediaItems: [
         { type: 'video', src: '/Werewolves/werewolvesClipped.mp4' },
-        { type: 'image', src: '/Werewolves/WerewolfUML.png' },
+        { type: 'image', src: '/Werewolves/werewolfUML.png' },
       ],
       badges: [
         { text: "ECE:3330: Software Design", accent: true },
