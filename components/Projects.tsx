@@ -30,6 +30,11 @@ type Project = {
   stars?: number;
   media?: ProjectMedia[];
   links?: ProjectLink[];
+  icon?: {
+    src: string;
+    width?: number;
+    height?: number;
+  };
 };
 
 function MediaCarousel({ title, media }: { title: string; media: ProjectMedia[] }) {
