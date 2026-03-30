@@ -54,10 +54,17 @@ export type ProjectMedia =
   | { type: "image"; src: string }
   | { type: "video"; src: string };
 
-export type ProjectLink = {
-  label: string;
-  url: string;
-};
+export type ProjectLink =
+  | {
+      type: "external";
+      label: string;
+      url: string;
+    }
+  | {
+      type: "modal";
+      label: string;
+      content: string; // markdown
+    };
 
 export type Project = {
   title: string;
