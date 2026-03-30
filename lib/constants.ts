@@ -80,7 +80,7 @@ export type Project = {
 const NICKOS_REPORT = `
 # nickOS
 
-<video src="/nickOS/demo.mp4" autoplay loop muted playsinline style="width:100%;"></video>
+<video src="/nickOS/demo2.mp4" autoplay loop muted playsinline style="width:100%;"></video>
 </br>
 
 ## Chapters
@@ -967,7 +967,7 @@ export const PROJECTS: Project[] = [
     description: "Created a bare-metal operating system from scratch running on an iPod Classic. Features a cooperative task scheduler, interrupt-driven input and audio, FAT32 filesystem, Pong, music playback/visualization, and a GBA emulator.",
     url: "#",
     media: [
-      { type: "video", src: "/nickOS/demo.mp4" },
+      { type: "video", src: "/nickOS/demo2.mp4" },
       { type: "image", src: "/nickOS/progress/nicktendo/childhood2.png" },
       { type: "image", src: "/nickOS/rockboxSimulator.png" },
       { type: "image", src: "/nickOS/progress/telemetry/telemetry1.png" }
