@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
+// next.config.js (or next.config.ts)
 const nextConfig = {
-  output: "export", // <-- enables static export
+  output: 'export',
 };
 
-module.exports = nextConfig;
+export default nextConfig;

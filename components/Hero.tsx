@@ -8,7 +8,7 @@ interface HeroSource {
   src: string;
 }
 
-export default function Hero({ sources }: { sources: HeroSource[] }) {
+export default function Hero({ sources = [] }: { sources?: HeroSource[] }) {
   const canvasRef = useRef<DitherCanvasHandle>(null);
   const [webglFailed, setWebglFailed] = useState(false);
   const [transitioning, setTransitioning] = useState(false);
