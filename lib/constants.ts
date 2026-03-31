@@ -499,7 +499,7 @@ TIMER1 is a 1 MHz countdown register on the PP5022. Loaded with 9,999 and set to
 </div>
   <div class="modal-split-media">
     <div style="flex:1; text-align:center;">
-      <video src="/nickOS/progress/interrupts/ticks.mov" autoplay loop muted playsinline style="width:100%;max-height:300px;object-fit:contain;"></video>
+      <video src="/nickOS/progress/interrupts/ticks.mp4" autoplay loop muted playsinline style="width:100%;max-height:300px;object-fit:contain;"></video>
     </div>
   </div>
 </div>
@@ -535,15 +535,15 @@ if ((data & 0x800000FF) == 0x8000001A)
 
 <div style="display:flex; gap:8px; width:100%; flex-wrap:nowrap;">
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/interrupts/guiButtons1.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/interrupts/guiButtons1.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Getting clickwheel input</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/interrupts/guiButtons2.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/interrupts/guiButtons2.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Implemented mechanism to start and end "tasks". Would later launch "apps".</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/interrupts/guiButtons3.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/interrupts/guiButtons3.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Replaced static options with "apps" that can be launched (see details below).</div>
   </div>
 </div>
@@ -575,15 +575,15 @@ typedef struct {
     <div style="font-size:12px; opacity:0.7;">"Brick" was a game on the native Apple OS. I wanted to accomplish something simple like this for the first app/game. I was a teaching assistant for a course that created games in C++ using SFML, so this isn't completely new territory.</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/pong/pong1.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/pong/pong1.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">First demo, might need to zoom in 🔎</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/pong/pong2.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/pong/pong2.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Pong complete ✅</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/pong/pong3.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/pong/pong3.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Later realized the CPU was running at 24MHz instead of 80Mhz. Made the change and it runs blazingly fast 🔥</div>
   </div>
 </div>
@@ -621,7 +621,7 @@ off the drive and render its contents on the LCD.
   </div>
   <div class="modal-split-media">
     <div style="flex:1; text-align:center;">
-      <img src="/nickOS/progress/HDD.mov" style="width:100%;" />
+      <img src="/nickOS/progress/HDD.mp4" style="width:100%;" />
     </div>
   </div>
 </div>
@@ -785,7 +785,7 @@ plot with:
 
   <div style="flex:1; text-align:center;">
     <video 
-      src="/nickOS/progress/nickTunes/nickTunes1.mov" 
+      src="/nickOS/progress/nickTunes/nickTunes1.mp4" 
       controls 
       playsinline 
       preload="none"
@@ -798,7 +798,7 @@ plot with:
 
   <div style="flex:1; text-align:center;">
     <video 
-      src="/nickOS/progress/nickTunes/nickTunes2.mov" 
+      src="/nickOS/progress/nickTunes/nickTunes2.mp4" 
       controls 
       playsinline 
       preload="none"
@@ -810,7 +810,7 @@ plot with:
   </div>
 
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/nickTunes/musicVisualizer.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/nickTunes/musicVisualizer.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Created real-time music visualizer 🎶</div>
   </div>
 
@@ -880,15 +880,15 @@ keeps calling its update function to refill buffers in the background.
     <div style="font-size:12px; opacity:0.7;">RockBox includes a GB emulator "Rockboy". Of the small research I've done, I haven't seen *anyone* do GBA on an iPod classic.</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/nicktendo/nicktendo1.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/nicktendo/nicktendo1.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Loading legally dumped ROM into memory</div>
   </div>
   <div style="flex:1; text-align:center;">
-  <video src="/nickOS/progress/nicktendo/nicktendo2.mov" autoplay loop muted playsinline style="width:100%;"></video>
+  <video src="/nickOS/progress/nicktendo/nicktendo2.mp4" autoplay loop muted playsinline style="width:100%;"></video>
   <div style="font-size:12px; opacity:0.7;">Frame rate is abysmal, but game is working ✨</div>
   </div>
   <div style="flex:1; text-align:center;">
-    <video src="/nickOS/progress/nicktendo/nicktendo3.mov" autoplay loop muted playsinline style="width:100%;"></video>
+    <video src="/nickOS/progress/nicktendo/nicktendo3.mp4" autoplay loop muted playsinline style="width:100%;"></video>
     <div style="font-size:12px; opacity:0.7;">Slow dialog speed 🐌, but cool to see it working nonetheless</div>
   </div>
 </div>

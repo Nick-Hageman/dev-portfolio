@@ -153,7 +153,9 @@ const DitherCanvas = forwardRef<DitherCanvasHandle, { sources: HeroSource[] }>(
       }
 
       function render() {
-        if (loadedCount < HERO_SOURCES.length) {
+        // Find first loaded source instead of waiting for all
+        const firstLoaded = sources.find((s) => s !== undefined);
+        if (!firstLoaded) {
           animationId = requestAnimationFrame(render);
           return;
         }
@@ -206,18 +208,21 @@ const DitherCanvas = forwardRef<DitherCanvasHandle, { sources: HeroSource[] }>(
         const curr = sources[currentIndex!];
         const next = sources[nextIndex!];
 
-        if (curr.video) updateVideoTexture(curr);
-        if (next.video) updateVideoTexture(next);
+        const safeCurr = curr ?? sources.find(s => s !== undefined)!;
+        const safeNext = next ?? safeCurr;
+
+        if (safeCurr.video) updateVideoTexture(safeCurr);
+        if (safeNext.video) updateVideoTexture(safeNext);
 
         gl!.activeTexture(gl!.TEXTURE0);
-        gl!.bindTexture(gl!.TEXTURE_2D, curr.texture);
+        gl!.bindTexture(gl!.TEXTURE_2D, safeCurr.texture);
         gl!.uniform1i(uTexture, 0);
-        gl!.uniform2f(uTextureSize, curr.width, curr.height);
+        gl!.uniform2f(uTextureSize, safeCurr.width, safeCurr.height);
 
         gl!.activeTexture(gl!.TEXTURE1);
-        gl!.bindTexture(gl!.TEXTURE_2D, next.texture);
+        gl!.bindTexture(gl!.TEXTURE_2D, safeNext.texture);
         gl!.uniform1i(uTexture2, 1);
-        gl!.uniform2f(uTextureSize2, next.width, next.height);
+        gl!.uniform2f(uTextureSize2, safeNext.width, safeNext.height);
 
         gl!.uniform1f(uMix, mixValue);
         gl!.uniform2f(uResolution, canvas!.width, canvas!.height);
@@ -229,8 +234,8 @@ const DitherCanvas = forwardRef<DitherCanvasHandle, { sources: HeroSource[] }>(
         animationId = requestAnimationFrame(render);
       }
 
-      // Load all sources
-      HERO_SOURCES.forEach((entry, i) => {
+      // Load index 0 first, then kick off the rest
+      const loadSource = (entry: HeroSource, i: number) => {
         if (entry.type === "video") {
           const video = document.createElement("video");
           video.src = entry.src;
@@ -279,7 +284,61 @@ const DitherCanvas = forwardRef<DitherCanvasHandle, { sources: HeroSource[] }>(
           };
           img.src = entry.src;
         }
-      });
+      };
+      loadSource(HERO_SOURCES[0], 0); // first
+      HERO_SOURCES.slice(1).forEach((entry, i) => loadSource(entry, i + 1)); // rest
+
+      // Load all sources
+      // HERO_SOURCES.forEach((entry, i) => {
+      //   if (entry.type === "video") {
+      //     const video = document.createElement("video");
+      //     video.src = entry.src;
+      //     video.loop = true;
+      //     video.muted = true;
+      //     video.playsInline = true;
+      //     video.crossOrigin = "anonymous";
+
+      //     const tex = initTexture();
+      //     gl.bindTexture(gl.TEXTURE_2D, tex);
+      //     gl.texImage2D(
+      //       gl.TEXTURE_2D,
+      //       0,
+      //       gl.RGBA,
+      //       1,
+      //       1,
+      //       0,
+      //       gl.RGBA,
+      //       gl.UNSIGNED_BYTE,
+      //       new Uint8Array([0, 0, 0, 0])
+      //     );
+
+      //     video.addEventListener("loadeddata", () => {
+      //       sources[i] = {
+      //         texture: tex,
+      //         width: video.videoWidth,
+      //         height: video.videoHeight,
+      //         video,
+      //       };
+      //       video.play();
+      //       loadedCount++;
+      //     });
+
+      //     video.load();
+      //   } else {
+      //     const img = new Image();
+      //     img.onload = () => {
+      //       const tex = initTexture();
+      //       uploadImage(tex, img);
+      //       sources[i] = {
+      //         texture: tex,
+      //         width: img.naturalWidth,
+      //         height: img.naturalHeight,
+      //       };
+      //       loadedCount++;
+      //     };
+      //     img.src = entry.src;
+      //   }
+      // });
 
       resize();
       render();
