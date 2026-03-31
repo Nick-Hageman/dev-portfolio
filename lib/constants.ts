@@ -117,7 +117,7 @@ One does not simply jump straight into implementing their own OS with no prepara
 <div style="display:flex; gap:8px; width:100%; flex-wrap:nowrap;">
 
   <div style="flex:1; text-align:center;">
-    <img src="/nickOS/OSTEP.jpg" style="width:100%;" />
+    <img src="/nickOS/ostep.jpg" style="width:100%;" />
     <div style="font-size:12px; opacity:0.7;">Learned about virtualization, processes, cpu scheduling, concurrency, memory virtualization, paging/segmentation, address translation, persistence, and I/O.</div>
   </div>
 
@@ -1034,37 +1034,47 @@ export const PROJECTS: Project[] = [
     tags: ["HackUIowa 2023", "Unity", "C#", "Quest 2", "Python"]
   },
   {
-    title: "LeetGPT",
+    title: "Handheld Retro Game Controller",
     icon: {
-      src: "/LeetGPT/icon2.png",
+      src: "/RetroController/ghosts.webp",
       width: 32,
       height: 32,
     },
-    description:"Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI's ChatGPT Language Model API for generative solutions.",
-    url: "https://github.com/Nick-Hageman/LeetGPT",
-    media: [{ type: "video", src: "/LeetGPT/leetGPTDemo.mp4" }],
+    description:"Designed and constructed a handheld gaming device leveraging the capabilities of the ESP8266 module and a Raspberry Pi. The choice of game for our device was Pac-Man, a classic arcade game known for its straightforward yet challenging gameplay.",
+    url: "https://github.com/Nick-Hageman/CageVision",
+    media: [
+      { type: "video", src: "/RetroController/pacmanClipped.mp4" },
+      { type: "image", src: "/RetroController/embeddedTermProject.png" }
+    ],
     links: [
       {
-        label: "GitHub",
-        url: "https://github.com/Nick-Hageman/LeetGPT",
+        label: "Github",
+        url: "https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems",
         type: "external"
       }
     ],
-    tags: ["OpenAI API", "React", "JavaScript", "Chromium"]
+    tags: ["ECE:3360 Embedded Systems", "Arduino", "C++", "websockets", "Raspberry Pi", "JavaScript"]
   },
   {
-    title: "🏡 Real Estate Web Application",
-    description:"Developed a web application for home builder's business. Implemented an interactive satellite map, 3D CAD Floorplans, and a Content Management Service (CMS).",
-    url: "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
-    media: [{ type: "video", src: "/HHOMES/HHOMES_DEMO.mp4" }],
+    title: "🧠 Neural RGB-D Encoding",
+    description: "Transmitting 3D data can be expensive, especially on hardware limited devices. Our approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.",
+    url: "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
+    media: [
+      { type: "image", src: "/Neural_RGBD_Encoding/slide1.png" },
+      { type: "image", src: "/Neural_RGBD_Encoding/slide2.png" },
+      { type: "image", src: "/Neural_RGBD_Encoding/slide3.png" },
+      { type: "image", src: "/Neural_RGBD_Encoding/slide4.png" },
+      { type: "image", src: "/Neural_RGBD_Encoding/slide5.png" },
+      { type: "image", src: "/Neural_RGBD_Encoding/slide6.png" }
+    ],
     links: [
       {
         label: "GitHub",
-        url: "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
+        url: "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
         type: "external"
       }
     ],
-    tags: ["Node.js", "JavaScript", "Three.js", "Docker", "AWS"]
+    tags: ["PyTorch", "Applied ML", "Python"]
   },
   {
     title: "HoloKinect",
@@ -1108,6 +1118,39 @@ export const PROJECTS: Project[] = [
     tags: ["ECE:5995 LLMs", "NLP", "Fine-Tuning", "BERT", "LoRA"]
   },
   {
+    title: "LeetGPT",
+    icon: {
+      src: "/LeetGPT/icon2.png",
+      width: 32,
+      height: 32,
+    },
+    description:"Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI's ChatGPT Language Model API for generative solutions.",
+    url: "https://github.com/Nick-Hageman/LeetGPT",
+    media: [{ type: "video", src: "/LeetGPT/leetGPTDemo.mp4" }],
+    links: [
+      {
+        label: "GitHub",
+        url: "https://github.com/Nick-Hageman/LeetGPT",
+        type: "external"
+      }
+    ],
+    tags: ["OpenAI API", "React", "JavaScript", "Chromium"]
+  },
+  {
+    title: "🏡 Real Estate Web Application",
+    description:"Developed a web application for home builder's business. Implemented an interactive satellite map, 3D CAD Floorplans, and a Content Management Service (CMS).",
+    url: "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
+    media: [{ type: "video", src: "/HHOMES/HHOMES_DEMO.mp4" }],
+    links: [
+      {
+        label: "GitHub",
+        url: "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
+        type: "external"
+      }
+    ],
+    tags: ["Node.js", "JavaScript", "Three.js", "Docker", "AWS"]
+  },
+  {
     title: "🌡️ IoT Thermometer",
     description:"Created an IoT thermometer that communicates with a web server to provide the user with temperature values no later than 300 seconds ago. Withstanded water and drop tests. Conformed to strict design requirements.",
     url: "/IOTThermometer/ECE4880_Thermometer.pdf",
@@ -1120,27 +1163,6 @@ export const PROJECTS: Project[] = [
       }
     ],
     tags: ["Arduino", "Serial Communication", "Python"]
-  },
-  {
-    title: "🧠 Neural RGB-D Encoding",
-    description: "Transmitting 3D data can be expensive, especially on hardware limited devices. Our approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.",
-    url: "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
-    media: [
-      { type: "image", src: "/Neural_RGBD_Encoding/slide1.png" },
-      { type: "image", src: "/Neural_RGBD_Encoding/slide2.png" },
-      { type: "image", src: "/Neural_RGBD_Encoding/slide3.png" },
-      { type: "image", src: "/Neural_RGBD_Encoding/slide4.png" },
-      { type: "image", src: "/Neural_RGBD_Encoding/slide5.png" },
-      { type: "image", src: "/Neural_RGBD_Encoding/slide6.png" }
-    ],
-    links: [
-      {
-        label: "GitHub",
-        url: "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
-        type: "external"
-      }
-    ],
-    tags: ["PyTorch", "Applied ML", "Python"]
   },
   {
     title: "CageVision",
@@ -1161,28 +1183,6 @@ export const PROJECTS: Project[] = [
       }
     ],
     tags: ["Swift", "VisionOS", "Xcode", "RealityKit"]
-  },
-  {
-    title: "Handheld Retro Game Controller",
-    icon: {
-      src: "/RetroController/ghosts.webp",
-      width: 32,
-      height: 32,
-    },
-    description:"Designed and constructed a handheld gaming device leveraging the capabilities of the ESP8266 module and a Raspberry Pi. The choice of game for our device was Pac-Man, a classic arcade game known for its straightforward yet challenging gameplay.",
-    url: "https://github.com/Nick-Hageman/CageVision",
-    media: [
-      { type: "video", src: "/RetroController/pacmanClipped.mp4" },
-      { type: "image", src: "/RetroController/embeddedTermProject.png" }
-    ],
-    links: [
-      {
-        label: "Github",
-        url: "https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems",
-        type: "external"
-      }
-    ],
-    tags: ["ECE:3360 Embedded Systems", "Arduino", "C++", "websockets", "Raspberry Pi", "JavaScript"]
   },
   {
     title: "🧠 Unsupervised RGB-D Scene Categorization",
