@@ -1069,7 +1069,7 @@ export const PROJECTS: Project[] = [
   {
     title: "HoloKinect",
     icon: {
-      src: "/Holokinect/visionPro.png",
+      src: "/HoloKinect/visionPro.png",
       width: 32,
       height: 32,
     },
