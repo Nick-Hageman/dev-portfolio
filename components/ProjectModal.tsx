@@ -385,8 +385,9 @@ const MODAL_CSS = `
 
   /* ── Images ─────────────────────────────────────────────────────────────── */
   .modal-figure { display: block; margin: 28px 0 }
-  .modal-img {
-    width: 90%; height: auto; display: block;
+  .modal-img,
+  .modal-body img {
+    max-width: 100%; height: auto; display: block;
     border-radius: 7px; border: 1px solid rgba(255,255,255,0.08); object-fit: cover;
   }
   .modal-figcaption { margin-top: 8px; font-size: 0.78rem; text-align: center; color: rgba(255,255,255,0.3); font-style: italic }
