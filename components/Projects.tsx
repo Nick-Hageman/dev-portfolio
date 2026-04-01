@@ -193,12 +193,7 @@ function ProjectCard({ project }: { project: Project }) {
         <div className="p-6">
         {/* Header — original layout preserved */}
         <div className="flex items-start justify-between gap-2">
-          <a
-            href={project.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-sans text-lg font-semibold text-text-primary hover:text-white transition-colors flex items-center gap-2"
-          >
+          <div className="font-sans text-lg font-semibold text-text-primary flex items-center gap-2">
             {project.icon && (
               <img
                 src={project.icon.src}
@@ -208,7 +203,7 @@ function ProjectCard({ project }: { project: Project }) {
               />
             )}
             {project.title}
-          </a>
+          </div>
 
           {project.stars != null && project.stars > 0 && (
             <span className="shrink-0 font-mono text-xs text-text-muted">
@@ -227,7 +222,7 @@ function ProjectCard({ project }: { project: Project }) {
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded-sm border border-border px-2 py-0.5 font-mono text-xs text-text-muted transition-colors hover:text-white"
+                  className="rounded-sm border border-border px-2 py-0.5 font-mono text-xs text-white transition-colors hover:opacity-70"
                 >
                   {link.label}
                 </a>
@@ -235,7 +230,7 @@ function ProjectCard({ project }: { project: Project }) {
                 <button
                   key={link.label}
                   onClick={() => setModalContent(link.content)}
-                  className="rounded-sm border border-border px-2 py-0.5 font-mono text-xs text-text-muted transition-colors hover:text-white"
+                  className="rounded-sm border border-border px-2 py-0.5 font-mono text-xs text-white transition-colors hover:opacity-70"
                 >
                   {link.label}
                 </button>
