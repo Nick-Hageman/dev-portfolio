@@ -939,7 +939,7 @@ export const PROJECTS: Project[] = [
       "Secured $5,000 in funding for SmartDart: A computer-vision driven steel-tip dart system that combines accurate, automated scoring with dynamic solo gameplay and real-time feedback.",
     url: "https://github.com/Nick-Hageman/SmartDart",
     media: [
-      { type: "image", src: "/SmartDart/smartdart2.gif" },
+      { type: "video", src: "/SmartDart/smartdart2.mp4" },
       { type: "video", src: "/SmartDart/quickDemo.mp4" },
       { type: "image", src: "/SmartDart/modernMarvels.png" },
       { type: "image", src: "/SmartDart/innovationChallenge.png" }

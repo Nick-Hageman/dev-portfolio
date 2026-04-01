@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
+
 import SectionWrapper from "./SectionWrapper";
 import ProjectModal from "./ProjectModal";
 import { PROJECTS } from "@/lib/constants";
@@ -52,6 +53,14 @@ function MediaCarousel({ title, media }: { title: string; media: ProjectMedia[] 
     setCurrent((c) => (c === media.length - 1 ? 0 : c + 1));
   };
 
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.play().catch(() => {});
+    }
+  }, [current]);
+
   const item = media[current];
 
   return (
@@ -69,12 +78,14 @@ function MediaCarousel({ title, media }: { title: string; media: ProjectMedia[] 
         />
       ) : (
         <video
+          ref={videoRef}
           key={item.src}
           src={item.src}
           autoPlay
           loop
           muted
           playsInline
+          preload="auto"
           style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
         />
       )}
