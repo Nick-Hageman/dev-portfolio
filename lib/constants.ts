@@ -922,6 +922,101 @@ nicktendo runs as a foreground task in the scheduler. The clickwheel buttons are
 
 </details>
 
+<details>
+<summary>🧠 On-device inference</summary>
+
+
+<div class="modal-split">
+  <div class="modal-split-text">
+
+  ### Motivation
+    
+  The iPod has 2 identical ARM7TDMI cores, but the coprocessor (COP) was sitting in an idle state. That's 50% compute wasted. 
+  When I started implementing a real-time Haar cascade face detection pipeline, I realized I could offload the compute to the coprocessor.
+  This allows the main processor to remain free to handle UI, button input, and audio with no stalls. The two cores share DRAM with no cache, so the mailbox IPC is just a shared struct.
+
+  </div>
+  <div class="modal-split-media">
+    <div style="flex:1; text-align:center;">
+      <img src="/nickOS/progress/inference/cop.jpg" style="width:100%;" />
+    </div>
+  </div>
+</div>
+
+### What it does
+
+Takes a 320x240 RGB565 photo, runs a full 25-stage Viola-Jones cascade, and draws bounding
+ boxes around detected faces. The entire pipeline performs grayscale conversion, integral images, multi-scale sliding window,
+ variance normalization, and NMS merging.
+
+<div style="display:flex; gap:8px; width:100%; flex-wrap:nowrap;">
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/chart3.png" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">E2E Face detection pipeline</div>
+  </div>
+
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/dataFlow.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Simplified data flow illustration</div>
+  </div>
+
+  </div>
+
+### Optimization
+The naive implementation took ~36 seconds. Through profiling-driven iteration, I
+ got it down to ~6 seconds — a 6x speedup — without sacrificing detection accuracy (3/3 faces detected). Here's what moved
+ the needle:
+
+ <div style="display:flex; gap:8px; width:100%; flex-wrap:nowrap;">
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box1.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Image was too noisy to serve as a benchmark.</div>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box2.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Detected close faces, struggled with faces at distance</div>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box3.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Simple image of three distinguishable faces. Using this as a benchmark. Takes a whopping 36 seconds for inference🐌</div>
+  </div>
+</div>
+
+Good video covering Haar cascade: http://www.youtube.com/watch?v=uEJ71VlUmMQ
+
+ <div style="display:flex; gap:8px; width:100%; flex-wrap:nowrap;">
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box4.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">COP instruction cache was disabled. The coprocessor was fetching every instruction from DRAM because I never enabled its
+ I-cache. Took latency from 36 to 9 seconds 🔥</div>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box5.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Eliminated ~156 million software divisions by precomputing a 25-entry scale lookup table per scan level. Moved hot code to IRAM. Tuned the scan parameters — stepped through scale ratios and window step sizes empirically. Obviously not tuned well here because we detect no faces.</div>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box6.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">finding the sweet spot where
+  detection quality held but window count dropped significantly. Only detecting 2/3.</div>
+  </div>
+  <div style="flex:1; text-align:center;">
+    <img src="/nickOS/progress/inference/box8.jpg" style="width:100%;" />
+    <div style="font-size:12px; opacity:0.7;">Tuned optimally here. Detected all faces, at a reasonable time of ~6s (compared to the original 36s)</div>
+  </div>
+</div>
+
+<div style="flex:1; text-align:center;">
+  <img src="/nickOS/progress/inference/chart1.jpg" style="width:100%;" />
+  <div style="font-size:12px; opacity:0.7;">Tradeoff</div>
+</div>
+
+<div style="flex:1; text-align:center;">
+  <img src="/nickOS/progress/inference/chart2.jpg" style="width:100%;" />
+  <div style="font-size:12px; opacity:0.7;">Tradeoff</div>
+</div>
+
+</details>
+
 ## Conclusion
 
 There's something satisfying about holding a 20-year-old iPod in your hand and watching it run your own code. It started as a "can I even get code running on this thing?" experiment and turned into a full OS with a game, a music player, and a GBA emulator. Along the way I learned how to write hardware drivers, handle interrupts, manage memory on a constrained system, all on bare metal with no libraries or safety net.
@@ -975,9 +1070,9 @@ export const PROJECTS: Project[] = [
     url: "#",
     media: [
       { type: "video", src: "/nickOS/demo2.mp4" },
-      { type: "image", src: "/nickOS/progress/nicktendo/childhood2.png" },
+      { type: "image", src: "/nickOS/progress/nicktendo/childhood3.jpg" },
       { type: "image", src: "/nickOS/rockboxSimulator.png" },
-      { type: "image", src: "/nickOS/progress/telemetry/telemetry1.png" }
+      { type: "image", src: "/nickOS/progress/inference/chart3.png" }
     ],
     tags: ["C", "Operating Systems", "Embedded Systems", "Hardware Drivers"],
     links: [
