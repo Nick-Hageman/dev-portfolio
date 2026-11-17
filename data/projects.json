@@ -1,0 +1,653 @@
+[
+  {
+    "slug": "neuralnick",
+    "title": "🧠 NeuralNick",
+    "description": "A macOS SwiftUI app + Python/LeRobot backend for an SO-101 robot arm: teleoperation, data collection, and on-device training and inference of ACT and VLA (SmolVLA, π0.5) policies. It ends with me eating oatmeal by steering the arm with only an EEG headset.",
+    "tags": [
+      "Robotics",
+      "LeRobot",
+      "PyTorch",
+      "SwiftUI",
+      "VLA",
+      "EEG / BCI"
+    ],
+    "url": "#",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/neuralNick/full-eeg-demo.mp4"
+      }
+    ],
+    "links": [],
+    "page": true
+  },
+  {
+    "slug": "nickos",
+    "title": "nickOS",
+    "description": "Created a bare-metal operating system from scratch running on an iPod Classic. Features a cooperative task scheduler, interrupt-driven input and audio, FAT32 filesystem, Pong, music playback/visualization, and a GBA emulator.",
+    "tags": [
+      "C",
+      "Operating Systems",
+      "Embedded Systems",
+      "Hardware Drivers"
+    ],
+    "url": "#",
+    "icon": {
+      "src": "/nickOS/ipod2.webp",
+      "width": 32,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/nickOS/demo2.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/nickOS/progress/nicktendo/childhood3.webp"
+      },
+      {
+        "type": "image",
+        "src": "/nickOS/rockboxSimulator.webp"
+      },
+      {
+        "type": "image",
+        "src": "/nickOS/progress/inference/chart3.webp"
+      }
+    ],
+    "links": [],
+    "page": true
+  },
+  {
+    "slug": "smartdart",
+    "title": "SmartDart",
+    "description": "Secured $5,000 in funding for SmartDart: A computer-vision driven steel-tip dart system that combines accurate, automated scoring with dynamic solo gameplay and real-time feedback.",
+    "tags": [
+      "UIowa Innovation Challenge",
+      "Transfer Learning",
+      "Python",
+      "OpenCV",
+      "DeepDarts"
+    ],
+    "url": "https://github.com/Nick-Hageman/SmartDart",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/SmartDart/smartdart2.mp4"
+      },
+      {
+        "type": "video",
+        "src": "/SmartDart/quickDemo.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/SmartDart/modernMarvels.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SmartDart/innovationChallenge.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://engineering.uiowa.edu/news-all/2024/11/iowa-engineers-win-39500-iowa-innovation-challenge",
+        "type": "external"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/SmartDart",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "handheld-retro-game-controller",
+    "title": "Handheld Retro Game Controller",
+    "description": "Designed and constructed a handheld gaming device leveraging the capabilities of the ESP8266 module and a Raspberry Pi. The choice of game for our device was Pac-Man, a classic arcade game known for its straightforward yet challenging gameplay.",
+    "tags": [
+      "ECE:3360 Embedded Systems",
+      "Arduino",
+      "C++",
+      "websockets",
+      "Raspberry Pi",
+      "JavaScript"
+    ],
+    "url": "https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems",
+    "icon": {
+      "src": "/RetroController/ghosts.webp",
+      "width": 32,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/RetroController/pacmanClipped.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/RetroController/embeddedTermProject.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "Github",
+        "url": "https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "neural-rgb-d-encoding",
+    "title": "🧠 Neural RGB-D Encoding",
+    "description": "Transmitting 3D data can be expensive, especially on hardware limited devices. Our approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.",
+    "tags": [
+      "PyTorch",
+      "Applied ML",
+      "Python"
+    ],
+    "url": "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
+    "icon": null,
+    "media": [
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide1.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide2.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide3.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide4.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide5.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Neural_RGBD_Encoding/slide6.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/Neural-RGBD-Encoding",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "slopestats",
+    "title": "SlopeStats",
+    "description": "🏂 SlopeStats is a watchOS + iOS app which has multiple modes of tracking activity for skiing & snowboarding. It offers run tracking (speed, heart rate, altitude), Speed Mode (Ghost racing), Resort & Weather Info (API)",
+    "tags": [
+      "Swift",
+      "SwiftUI",
+      "CoreData",
+      "CoreMotion",
+      "HealthKit"
+    ],
+    "url": "https://github.com/Nick-Hageman/SlopeStats",
+    "icon": {
+      "src": "/SlopeStats/slopeStatsAppIcon.webp",
+      "width": 24,
+      "height": 24
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/SlopeStats/slopeStats.mp4"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/SlopeStats",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "farmvision",
+    "title": "🌽 FarmVision",
+    "description": "Modeled agricultural field data in Virtual Reality by utilizing John Deere Precision Ag APIs. Awarded \"Best Data Collection Hack\" at HackUIowa 2023.",
+    "tags": [
+      "HackUIowa 2023",
+      "Unity",
+      "C#",
+      "Quest 2",
+      "Python"
+    ],
+    "url": "https://github.com/Nick-Hageman/FarmVision",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/FarmVision/farmvisionCropped.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/FarmVision/farmvision3.webp"
+      },
+      {
+        "type": "image",
+        "src": "/FarmVision/farmvision2.webp"
+      },
+      {
+        "type": "image",
+        "src": "/FarmVision/farmvision6.webp"
+      },
+      {
+        "type": "image",
+        "src": "/FarmVision/farmvision4.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/FarmVision",
+        "type": "external"
+      },
+      {
+        "label": "Devpost",
+        "url": "https://devpost.com/software/farmvision",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "holokinect",
+    "title": "HoloKinect",
+    "description": "Developed visionOS UI for a realistic 3D video communication application on the Apple Vision Pro. (Mentored by Prof Tyler Bell and PhD candidate Stephen Siemonsma)",
+    "tags": [
+      "Holo Reality Lab",
+      "Swift",
+      "visionOS"
+    ],
+    "url": "#",
+    "icon": {
+      "src": "/HoloKinect/visionPro.webp",
+      "width": 32,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/HoloKinect/holokinectDemo.mp4"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "moodtube",
+    "title": "MoodTube",
+    "description": "Fine-tuned a sentiment analysis model on YouTube comments. Created a chrome extension which did inference and visualized results by modifying the YouTube page's HTML.",
+    "tags": [
+      "ECE:5995 LLMs",
+      "NLP",
+      "Fine-Tuning",
+      "BERT",
+      "LoRA"
+    ],
+    "url": "https://github.com/Nick-Hageman/YouTube-sentiment-analysis",
+    "icon": {
+      "src": "/SentimentAnalysis/sentiment.webp",
+      "width": 48,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/MoodTube/moodtubeSpedUp.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide1.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide2.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide3.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide4.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide5.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide6.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide7.webp"
+      },
+      {
+        "type": "image",
+        "src": "/SentimentAnalysis/phase2/slide14.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/YouTube-sentiment-analysis",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "leetgpt",
+    "title": "LeetGPT",
+    "description": "Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems. Leveraged OpenAI's ChatGPT Language Model API for generative solutions.",
+    "tags": [
+      "OpenAI API",
+      "React",
+      "JavaScript",
+      "Chromium"
+    ],
+    "url": "https://github.com/Nick-Hageman/LeetGPT",
+    "icon": {
+      "src": "/LeetGPT/icon2.webp",
+      "width": 32,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/LeetGPT/leetGPTDemo.mp4"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/LeetGPT",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "real-estate-web-application",
+    "title": "🏡 Real Estate Web Application",
+    "description": "Developed a web application for home builder's business. Implemented an interactive satellite map, 3D CAD Floorplans, and a Content Management Service (CMS).",
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Three.js",
+      "Docker",
+      "AWS"
+    ],
+    "url": "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/HHOMES/HHOMES_DEMO.mp4"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/Real-Estate-Webapp-2023",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "iot-thermometer",
+    "title": "🌡️ IoT Thermometer",
+    "description": "Created an IoT thermometer that communicates with a web server to provide the user with temperature values no later than 300 seconds ago. Withstanded water and drop tests. Conformed to strict design requirements.",
+    "tags": [
+      "Arduino",
+      "Serial Communication",
+      "Python"
+    ],
+    "url": "/IOTThermometer/ECE4880_Thermometer.pdf",
+    "icon": null,
+    "media": [
+      {
+        "type": "image",
+        "src": "/IOTThermometer/thermometer.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "Report",
+        "url": "/IOTThermometer/ECE4880_Thermometer.pdf",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "cagevision",
+    "title": "CageVision",
+    "description": "Created a spatial application which utilized an MMA API to gather upcoming event information to be displayed in a visionOS window. Conceptualized viewing MMA matches in augmented reality by introducing a 3D model of an octagon placed on a flat surface.",
+    "tags": [
+      "Swift",
+      "VisionOS",
+      "Xcode",
+      "RealityKit"
+    ],
+    "url": "https://github.com/Nick-Hageman/CageVision",
+    "icon": {
+      "src": "/CageVision/ufc.webp",
+      "width": 32,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/CageVision/CageVision.mp4"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/CageVision",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "unsupervised-rgb-d-scene-categorization",
+    "title": "🧠 Unsupervised RGB-D Scene Categorization",
+    "description": "Clustered scenes from a short film using RGB-D data. Included the depth information for clustering as we thought it may enhance the scene representation in regards to spatial relationships.",
+    "tags": [
+      "ECE:5995 Applied ML",
+      "Pytorch",
+      "Python",
+      "Pandas",
+      "Numpy"
+    ],
+    "url": "https://github.com/Nick-Hageman/RGBD-Unsupervised-Clustering",
+    "icon": null,
+    "media": [
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide1.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide2.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide3.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide4.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide6.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide7.webp"
+      },
+      {
+        "type": "image",
+        "src": "/Unsupervised_RGBD_Scene_Categorization/slide8.webp"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Nick-Hageman/RGBD-Unsupervised-Clustering",
+        "type": "external"
+      }
+    ]
+  },
+  {
+    "slug": "shards-of-the-grid",
+    "title": "💎 Shards of the Grid",
+    "description": "Our team developed a multiplayer game with Generative AI components in the form of a SaaS application using the Rails web framework.",
+    "tags": [
+      "ECE:5820: SELT",
+      "OpenAI API",
+      "Ruby",
+      "HTML/CSS"
+    ],
+    "url": "#",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/ShardsOfTheGrid/seltClipped.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/ShardsOfTheGrid/team.webp"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "drivesense",
+    "title": "🚗 DriveSense",
+    "description": "We utilized computer vision to monitor and record driver distractedness. We used a Raspberry Pi and Teachable Machine for our machine learning model. We also constructed a React dashboard application for data visualization.",
+    "tags": [
+      "ECE:5550: Internet of Things",
+      "Python",
+      "OpenCV",
+      "Firebase",
+      "JavaScript"
+    ],
+    "url": "#",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/DriveSense/drivesenseClipped.mp4"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "the-gauntlet",
+    "title": "The Gauntlet",
+    "description": "Created a multi-stage game comprised of various challenges for our Virtual & Augmented Reality final project. Some of the challenges explored the mechanics of zero gravity, propulsion, enemy collision detection, animations, and AI navigation.",
+    "tags": [
+      "ECE:5995 VAR",
+      "Unity",
+      "C#"
+    ],
+    "url": "#",
+    "icon": {
+      "src": "/Gauntlet/quest2.webp",
+      "width": 48,
+      "height": 32
+    },
+    "media": [
+      {
+        "type": "video",
+        "src": "/Gauntlet/VarFinalDemo.mp4"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "engr2730-computers-in-engineering",
+    "title": "📚ENGR:2730 Computers in Engineering",
+    "description": "Added features to Asteroids using topics including: OOP, dynamic memory allocation, SFML library, composition, inheritance, and polymorphism. Assisted 300+ students in learning advanced C++ concepts.",
+    "tags": [
+      "Teaching Assistant",
+      "C++",
+      "SFML",
+      "CMAKE"
+    ],
+    "url": "#",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/CIE/Asteroids_Demo.mp4"
+      },
+      {
+        "type": "video",
+        "src": "/CIE/racing.mp4"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "generative-ai-content-pipeline",
+    "title": "Generative AI Content Pipeline",
+    "description": "Used multiple Generative AI Tools to automate the content generation process for platforms such as YouTube & TikTok.",
+    "tags": [
+      "ECE:5995 Generative AI Tools",
+      "Python",
+      "OpenAI API"
+    ],
+    "url": "#",
+    "icon": {
+      "src": "/GAIT/tiktok.webp",
+      "width": 24,
+      "height": 24
+    },
+    "media": [
+      {
+        "type": "image",
+        "src": "/GAIT/diagram.webp"
+      }
+    ],
+    "links": []
+  },
+  {
+    "slug": "werewolves",
+    "title": "🐺 Werewolves",
+    "description": "Created a multiplayer game using purely Java. Inolved multithreading, networking, and database management. Was chosen as a top team to present to the class.",
+    "tags": [
+      "ECE:3330: Software Design",
+      "Java",
+      "SQL"
+    ],
+    "url": "#",
+    "icon": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "/Werewolves/werewolvesClipped.mp4"
+      },
+      {
+        "type": "image",
+        "src": "/Werewolves/werewolfUML.webp"
+      }
+    ],
+    "links": []
+  }
+]

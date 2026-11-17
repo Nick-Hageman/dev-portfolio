@@ -1,0 +1,926 @@
+{
+ "CIE/Asteroids_Demo.mp4": {
+  "size": 1580836,
+  "mtimeMs": 1794902153769
+ },
+ "CIE/Asteroids_Demo.poster.webp": {
+  "size": 24452,
+  "mtimeMs": 1794902154997
+ },
+ "CIE/racing.mp4": {
+  "size": 3672193,
+  "mtimeMs": 1794902156595
+ },
+ "CIE/racing.poster.webp": {
+  "size": 58794,
+  "mtimeMs": 1794902156838
+ },
+ "CageVision/CageVision.mp4": {
+  "size": 686218,
+  "mtimeMs": 1794902157520
+ },
+ "CageVision/CageVision.poster.webp": {
+  "size": 25884,
+  "mtimeMs": 1794902157670
+ },
+ "CageVision/ufc.webp": {
+  "size": 25150,
+  "mtimeMs": 1794902157716
+ },
+ "DriveSense/drivesenseClipped.mp4": {
+  "size": 1439018,
+  "mtimeMs": 1794902158745
+ },
+ "DriveSense/drivesenseClipped.poster.webp": {
+  "size": 67062,
+  "mtimeMs": 1794902158970
+ },
+ "FarmVision/farmvision2.webp": {
+  "size": 88622,
+  "mtimeMs": 1794902159084
+ },
+ "FarmVision/farmvision3.webp": {
+  "size": 112622,
+  "mtimeMs": 1794902159206
+ },
+ "FarmVision/farmvision4.webp": {
+  "size": 97624,
+  "mtimeMs": 1794902159325
+ },
+ "FarmVision/farmvision6.webp": {
+  "size": 25952,
+  "mtimeMs": 1794902159356
+ },
+ "FarmVision/farmvisionCropped.mp4": {
+  "size": 460486,
+  "mtimeMs": 1794902159670
+ },
+ "FarmVision/farmvisionCropped.poster.webp": {
+  "size": 18274,
+  "mtimeMs": 1794902159770
+ },
+ "GAIT/diagram.webp": {
+  "size": 39860,
+  "mtimeMs": 1794902159855
+ },
+ "GAIT/tiktok.webp": {
+  "size": 13980,
+  "mtimeMs": 1794902159907
+ },
+ "Gauntlet/VarFinalDemo.mp4": {
+  "size": 2963291,
+  "mtimeMs": 1794902161375
+ },
+ "Gauntlet/VarFinalDemo.poster.webp": {
+  "size": 16322,
+  "mtimeMs": 1794902161506
+ },
+ "Gauntlet/quest2.webp": {
+  "size": 10248,
+  "mtimeMs": 1794902161537
+ },
+ "HHOMES/HHOMES_DEMO.mp4": {
+  "size": 1198529,
+  "mtimeMs": 1794902162696
+ },
+ "HHOMES/HHOMES_DEMO.poster.webp": {
+  "size": 17066,
+  "mtimeMs": 1794902162791
+ },
+ "HoloKinect/holokinectDemo.mp4": {
+  "size": 976444,
+  "mtimeMs": 1794902163800
+ },
+ "HoloKinect/holokinectDemo.poster.webp": {
+  "size": 34586,
+  "mtimeMs": 1794902163947
+ },
+ "HoloKinect/visionPro.webp": {
+  "size": 5176,
+  "mtimeMs": 1794902163970
+ },
+ "IOTThermometer/thermometer.webp": {
+  "size": 75740,
+  "mtimeMs": 1794902164069
+ },
+ "LOGOS/pfp.webp": {
+  "size": 25688,
+  "mtimeMs": 1794902164110
+ },
+ "LOGOS/portfolio.mp4": {
+  "size": 3537552,
+  "mtimeMs": 1794902435653
+ },
+ "LOGOS/portfolio.poster.webp": {
+  "size": 9926,
+  "mtimeMs": 1794902166893
+ },
+ "LeetGPT/icon2.webp": {
+  "size": 24438,
+  "mtimeMs": 1794902167014
+ },
+ "LeetGPT/leetGPTDemo.mp4": {
+  "size": 440345,
+  "mtimeMs": 1794902167709
+ },
+ "LeetGPT/leetGPTDemo.poster.webp": {
+  "size": 26260,
+  "mtimeMs": 1794902167814
+ },
+ "MoodTube/moodtubeSpedUp.mp4": {
+  "size": 827038,
+  "mtimeMs": 1794902168640
+ },
+ "MoodTube/moodtubeSpedUp.poster.webp": {
+  "size": 37736,
+  "mtimeMs": 1794902168811
+ },
+ "Neural_RGBD_Encoding/slide1.webp": {
+  "size": 121124,
+  "mtimeMs": 1794902168898
+ },
+ "Neural_RGBD_Encoding/slide2.webp": {
+  "size": 129858,
+  "mtimeMs": 1794902168983
+ },
+ "Neural_RGBD_Encoding/slide3.webp": {
+  "size": 103008,
+  "mtimeMs": 1794902169063
+ },
+ "Neural_RGBD_Encoding/slide4.webp": {
+  "size": 79644,
+  "mtimeMs": 1794902169139
+ },
+ "Neural_RGBD_Encoding/slide5.webp": {
+  "size": 140364,
+  "mtimeMs": 1794902169223
+ },
+ "Neural_RGBD_Encoding/slide6.webp": {
+  "size": 74826,
+  "mtimeMs": 1794902169303
+ },
+ "RetroController/embeddedTermProject.webp": {
+  "size": 74470,
+  "mtimeMs": 1794902169391
+ },
+ "RetroController/pacmanClipped.mp4": {
+  "size": 1100841,
+  "mtimeMs": 1794902170265
+ },
+ "RetroController/pacmanClipped.poster.webp": {
+  "size": 31298,
+  "mtimeMs": 1794902170463
+ },
+ "SentimentAnalysis/phase2/slide1.webp": {
+  "size": 52154,
+  "mtimeMs": 1794902170549
+ },
+ "SentimentAnalysis/phase2/slide14.webp": {
+  "size": 38774,
+  "mtimeMs": 1794902170629
+ },
+ "SentimentAnalysis/phase2/slide2.webp": {
+  "size": 57736,
+  "mtimeMs": 1794902170714
+ },
+ "SentimentAnalysis/phase2/slide3.webp": {
+  "size": 111236,
+  "mtimeMs": 1794902170809
+ },
+ "SentimentAnalysis/phase2/slide4.webp": {
+  "size": 57340,
+  "mtimeMs": 1794902170894
+ },
+ "SentimentAnalysis/phase2/slide5.webp": {
+  "size": 37320,
+  "mtimeMs": 1794902170973
+ },
+ "SentimentAnalysis/phase2/slide6.webp": {
+  "size": 42036,
+  "mtimeMs": 1794902171053
+ },
+ "SentimentAnalysis/phase2/slide7.webp": {
+  "size": 34626,
+  "mtimeMs": 1794902171134
+ },
+ "SentimentAnalysis/sentiment.webp": {
+  "size": 5718,
+  "mtimeMs": 1794902171159
+ },
+ "ShardsOfTheGrid/seltClipped.mp4": {
+  "size": 1476785,
+  "mtimeMs": 1794902172230
+ },
+ "ShardsOfTheGrid/seltClipped.poster.webp": {
+  "size": 15972,
+  "mtimeMs": 1794902172368
+ },
+ "ShardsOfTheGrid/team.webp": {
+  "size": 57060,
+  "mtimeMs": 1794902172460
+ },
+ "SlopeStats/slopeStats.mp4": {
+  "size": 316604,
+  "mtimeMs": 1794902172906
+ },
+ "SlopeStats/slopeStats.poster.webp": {
+  "size": 13840,
+  "mtimeMs": 1794902173004
+ },
+ "SlopeStats/slopeStatsAppIcon.webp": {
+  "size": 2700,
+  "mtimeMs": 1794902173023
+ },
+ "SmartDart/innovationChallenge.webp": {
+  "size": 147870,
+  "mtimeMs": 1794902173145
+ },
+ "SmartDart/modernMarvels.webp": {
+  "size": 215060,
+  "mtimeMs": 1794902173334
+ },
+ "SmartDart/quickDemo.mp4": {
+  "size": 1694499,
+  "mtimeMs": 1794902174244
+ },
+ "SmartDart/quickDemo.poster.webp": {
+  "size": 35498,
+  "mtimeMs": 1794902174458
+ },
+ "SmartDart/smartdart2.mp4": {
+  "size": 339842,
+  "mtimeMs": 1794902174659
+ },
+ "SmartDart/smartdart2.poster.webp": {
+  "size": 46564,
+  "mtimeMs": 1794902174769
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide1.webp": {
+  "size": 131602,
+  "mtimeMs": 1794902174882
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide2.webp": {
+  "size": 135056,
+  "mtimeMs": 1794902174995
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide3.webp": {
+  "size": 94872,
+  "mtimeMs": 1794902175099
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide4.webp": {
+  "size": 69422,
+  "mtimeMs": 1794902175197
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide6.webp": {
+  "size": 82612,
+  "mtimeMs": 1794902175300
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide7.webp": {
+  "size": 148960,
+  "mtimeMs": 1794902175414
+ },
+ "Unsupervised_RGBD_Scene_Categorization/slide8.webp": {
+  "size": 75792,
+  "mtimeMs": 1794902175513
+ },
+ "Werewolves/werewolfUML.webp": {
+  "size": 86224,
+  "mtimeMs": 1794902175604
+ },
+ "Werewolves/werewolvesClipped.mp4": {
+  "size": 483300,
+  "mtimeMs": 1794902176232
+ },
+ "Werewolves/werewolvesClipped.poster.webp": {
+  "size": 28952,
+  "mtimeMs": 1794902176347
+ },
+ "neuralNick/ACT/experiment1.mp4": {
+  "size": 1100300,
+  "mtimeMs": 1794902178886
+ },
+ "neuralNick/ACT/experiment1.poster.webp": {
+  "size": 24694,
+  "mtimeMs": 1794902179034
+ },
+ "neuralNick/ACT/experiment2.mp4": {
+  "size": 2363544,
+  "mtimeMs": 1794902184575
+ },
+ "neuralNick/ACT/experiment2.poster.webp": {
+  "size": 25154,
+  "mtimeMs": 1794902184723
+ },
+ "neuralNick/ACT/experiment3.mp4": {
+  "size": 981899,
+  "mtimeMs": 1794902187101
+ },
+ "neuralNick/ACT/experiment3.poster.webp": {
+  "size": 25904,
+  "mtimeMs": 1794902187252
+ },
+ "neuralNick/ACT/experiment4.mp4": {
+  "size": 1195709,
+  "mtimeMs": 1794902189421
+ },
+ "neuralNick/ACT/experiment4.poster.webp": {
+  "size": 25488,
+  "mtimeMs": 1794902189573
+ },
+ "neuralNick/ACT/experiment5.mp4": {
+  "size": 1750323,
+  "mtimeMs": 1794902193660
+ },
+ "neuralNick/ACT/experiment5.poster.webp": {
+  "size": 26378,
+  "mtimeMs": 1794902193816
+ },
+ "neuralNick/ACT/experiment6.mp4": {
+  "size": 1253471,
+  "mtimeMs": 1794902196391
+ },
+ "neuralNick/ACT/experiment6.poster.webp": {
+  "size": 25788,
+  "mtimeMs": 1794902196543
+ },
+ "neuralNick/ACT/experiment7.mp4": {
+  "size": 1882399,
+  "mtimeMs": 1794902200994
+ },
+ "neuralNick/ACT/experiment7.poster.webp": {
+  "size": 26594,
+  "mtimeMs": 1794902201146
+ },
+ "neuralNick/ACT/experiment8.mp4": {
+  "size": 578109,
+  "mtimeMs": 1794902202590
+ },
+ "neuralNick/ACT/experiment8.poster.webp": {
+  "size": 26698,
+  "mtimeMs": 1794902202742
+ },
+ "neuralNick/ACT/experiment9.mp4": {
+  "size": 1293754,
+  "mtimeMs": 1794902205553
+ },
+ "neuralNick/ACT/experiment9.poster.webp": {
+  "size": 25556,
+  "mtimeMs": 1794902205701
+ },
+ "neuralNick/ACT/first-act-inference.mp4": {
+  "size": 1096057,
+  "mtimeMs": 1794902206608
+ },
+ "neuralNick/ACT/first-act-inference.poster.webp": {
+  "size": 29496,
+  "mtimeMs": 1794902206770
+ },
+ "neuralNick/ACT/firstTwoTrainingRuns.webp": {
+  "size": 170184,
+  "mtimeMs": 1794902206909
+ },
+ "neuralNick/ACT/teleoperation.mp4": {
+  "size": 1409780,
+  "mtimeMs": 1794902207830
+ },
+ "neuralNick/ACT/teleoperation.poster.webp": {
+  "size": 21292,
+  "mtimeMs": 1794902208015
+ },
+ "neuralNick/EEG/calibration-sped-up.mp4": {
+  "size": 55823,
+  "mtimeMs": 1794902208272
+ },
+ "neuralNick/EEG/calibration-sped-up.poster.webp": {
+  "size": 7398,
+  "mtimeMs": 1794902208360
+ },
+ "neuralNick/EEG/ear-clips.webp": {
+  "size": 69376,
+  "mtimeMs": 1794902208449
+ },
+ "neuralNick/EEG/electrode.webp": {
+  "size": 162586,
+  "mtimeMs": 1794902208648
+ },
+ "neuralNick/EEG/final-demo-oatmeal.mp4": {
+  "size": 1876124,
+  "mtimeMs": 1794902210041
+ },
+ "neuralNick/EEG/final-demo-oatmeal.poster.webp": {
+  "size": 36596,
+  "mtimeMs": 1794902210226
+ },
+ "neuralNick/EEG/putting-on-eeg-sped-up.mp4": {
+  "size": 504919,
+  "mtimeMs": 1794902210599
+ },
+ "neuralNick/EEG/putting-on-eeg-sped-up.poster.webp": {
+  "size": 20070,
+  "mtimeMs": 1794902210727
+ },
+ "neuralNick/EEG/rubber-band.webp": {
+  "size": 41448,
+  "mtimeMs": 1794902210961
+ },
+ "neuralNick/EEG/sign-of-life-trimmed.mp4": {
+  "size": 403383,
+  "mtimeMs": 1794902211966
+ },
+ "neuralNick/EEG/sign-of-life-trimmed.poster.webp": {
+  "size": 18252,
+  "mtimeMs": 1794902212077
+ },
+ "neuralNick/EEG/testing-spoon-no-bowl.mp4": {
+  "size": 4409450,
+  "mtimeMs": 1794902218606
+ },
+ "neuralNick/EEG/testing-spoon-no-bowl.poster.webp": {
+  "size": 27460,
+  "mtimeMs": 1794902218740
+ },
+ "neuralNick/EEG/ucsd.webp": {
+  "size": 192108,
+  "mtimeMs": 1794902218946
+ },
+ "neuralNick/EEG/usb.webp": {
+  "size": 170658,
+  "mtimeMs": 1794902219138
+ },
+ "neuralNick/EEG/windows-LSL.webp": {
+  "size": 160188,
+  "mtimeMs": 1794902219394
+ },
+ "neuralNick/EEG/windows-only.mp4": {
+  "size": 818484,
+  "mtimeMs": 1794902219942
+ },
+ "neuralNick/EEG/windows-only.poster.webp": {
+  "size": 39546,
+  "mtimeMs": 1794902220128
+ },
+ "neuralNick/INTRO/assembly-trimmed.mp4": {
+  "size": 1054962,
+  "mtimeMs": 1794902220858
+ },
+ "neuralNick/INTRO/assembly-trimmed.poster.webp": {
+  "size": 47996,
+  "mtimeMs": 1794902221044
+ },
+ "neuralNick/INTRO/print.mp4": {
+  "size": 675751,
+  "mtimeMs": 1794902221581
+ },
+ "neuralNick/INTRO/print.poster.webp": {
+  "size": 14674,
+  "mtimeMs": 1794902221735
+ },
+ "neuralNick/INTRO/printing.mp4": {
+  "size": 417812,
+  "mtimeMs": 1794902222127
+ },
+ "neuralNick/INTRO/printing.poster.webp": {
+  "size": 19234,
+  "mtimeMs": 1794902222274
+ },
+ "neuralNick/INTRO/so101-pipeline.mp4": {
+  "size": 1313107,
+  "mtimeMs": 1794902223555
+ },
+ "neuralNick/INTRO/so101-pipeline.poster.webp": {
+  "size": 36358,
+  "mtimeMs": 1794902223773
+ },
+ "neuralNick/VLA/300epochs.mp4": {
+  "size": 1485941,
+  "mtimeMs": 1794902226963
+ },
+ "neuralNick/VLA/300epochs.poster.webp": {
+  "size": 26018,
+  "mtimeMs": 1794902227113
+ },
+ "neuralNick/VLA/dont-take-marker.mp4": {
+  "size": 1537758,
+  "mtimeMs": 1794902228196
+ },
+ "neuralNick/VLA/dont-take-marker.poster.webp": {
+  "size": 17694,
+  "mtimeMs": 1794902228363
+ },
+ "neuralNick/VLA/first-e2e-trained-model.webp": {
+  "size": 121366,
+  "mtimeMs": 1794902228512
+ },
+ "neuralNick/VLA/first-marker-attempt-synced.mp4": {
+  "size": 1613014,
+  "mtimeMs": 1794902229786
+ },
+ "neuralNick/VLA/first-marker-attempt-synced.poster.webp": {
+  "size": 21584,
+  "mtimeMs": 1794902229962
+ },
+ "neuralNick/VLA/first-pi-model-loss.webp": {
+  "size": 190274,
+  "mtimeMs": 1794902230099
+ },
+ "neuralNick/VLA/first-pi-model-params.webp": {
+  "size": 93276,
+  "mtimeMs": 1794902230176
+ },
+ "neuralNick/VLA/intentional-failure-1.mp4": {
+  "size": 713827,
+  "mtimeMs": 1794902231523
+ },
+ "neuralNick/VLA/intentional-failure-1.poster.webp": {
+  "size": 19414,
+  "mtimeMs": 1794902231631
+ },
+ "neuralNick/VLA/intentional-failure-2.mp4": {
+  "size": 898676,
+  "mtimeMs": 1794902233203
+ },
+ "neuralNick/VLA/intentional-failure-2.poster.webp": {
+  "size": 19726,
+  "mtimeMs": 1794902233310
+ },
+ "neuralNick/VLA/markerDemo.mp4": {
+  "size": 1192290,
+  "mtimeMs": 1794902234364
+ },
+ "neuralNick/VLA/markerDemo.poster.webp": {
+  "size": 10328,
+  "mtimeMs": 1794902234513
+ },
+ "neuralNick/VLA/menuSecondIter.webp": {
+  "size": 18956,
+  "mtimeMs": 1794902234590
+ },
+ "neuralNick/VLA/metaData.webp": {
+  "size": 21176,
+  "mtimeMs": 1794902234627
+ },
+ "neuralNick/VLA/sameMistakes.mp4": {
+  "size": 864290,
+  "mtimeMs": 1794902236636
+ },
+ "neuralNick/VLA/sameMistakes.poster.webp": {
+  "size": 26832,
+  "mtimeMs": 1794902236786
+ },
+ "neuralNick/full-eeg-demo.mp4": {
+  "size": 1170081,
+  "mtimeMs": 1794902237611
+ },
+ "neuralNick/full-eeg-demo.poster.webp": {
+  "size": 20070,
+  "mtimeMs": 1794902237738
+ },
+ "neuralNick/mac-app/dataViewer.mp4": {
+  "size": 476534,
+  "mtimeMs": 1794902238768
+ },
+ "neuralNick/mac-app/dataViewer.poster.webp": {
+  "size": 18698,
+  "mtimeMs": 1794902238875
+ },
+ "neuralNick/mac-app/firstIter.mp4": {
+  "size": 1204576,
+  "mtimeMs": 1794902239946
+ },
+ "neuralNick/mac-app/firstIter.poster.webp": {
+  "size": 43596,
+  "mtimeMs": 1794902240076
+ },
+ "neuralNick/mac-app/menuFirstIter.webp": {
+  "size": 11006,
+  "mtimeMs": 1794902240144
+ },
+ "neuralNick/mac-app/secondIter.mp4": {
+  "size": 1260564,
+  "mtimeMs": 1794902241548
+ },
+ "neuralNick/mac-app/secondIter.poster.webp": {
+  "size": 32458,
+  "mtimeMs": 1794902241668
+ },
+ "nickOS/armGuide.webp": {
+  "size": 8780,
+  "mtimeMs": 1794902241710
+ },
+ "nickOS/build.webp": {
+  "size": 32084,
+  "mtimeMs": 1794902241757
+ },
+ "nickOS/demo2.mp4": {
+  "size": 1882705,
+  "mtimeMs": 1794902243272
+ },
+ "nickOS/demo2.poster.webp": {
+  "size": 21182,
+  "mtimeMs": 1794902243431
+ },
+ "nickOS/ipod2.webp": {
+  "size": 2754,
+  "mtimeMs": 1794902243451
+ },
+ "nickOS/loadDiagram.webp": {
+  "size": 9908,
+  "mtimeMs": 1794902243477
+ },
+ "nickOS/motivation.webp": {
+  "size": 69518,
+  "mtimeMs": 1794902243536
+ },
+ "nickOS/ostep.webp": {
+  "size": 35670,
+  "mtimeMs": 1794902243610
+ },
+ "nickOS/progress/HDD.mp4": {
+  "size": 231856,
+  "mtimeMs": 1794902243877
+ },
+ "nickOS/progress/HDD.poster.webp": {
+  "size": 11184,
+  "mtimeMs": 1794902244015
+ },
+ "nickOS/progress/bitmaps/bearsLogo.webp": {
+  "size": 68816,
+  "mtimeMs": 1794902244307
+ },
+ "nickOS/progress/bitmaps/bitmap0.webp": {
+  "size": 242134,
+  "mtimeMs": 1794902244501
+ },
+ "nickOS/progress/bitmaps/font0.webp": {
+  "size": 69708,
+  "mtimeMs": 1794902244601
+ },
+ "nickOS/progress/bitmaps/gui1.webp": {
+  "size": 77262,
+  "mtimeMs": 1794902244906
+ },
+ "nickOS/progress/bitmaps/gui3.webp": {
+  "size": 116408,
+  "mtimeMs": 1794902245213
+ },
+ "nickOS/progress/bitmaps/gui4.webp": {
+  "size": 143956,
+  "mtimeMs": 1794902245526
+ },
+ "nickOS/progress/bitmaps/gui5.webp": {
+  "size": 139182,
+  "mtimeMs": 1794902245830
+ },
+ "nickOS/progress/bitmaps/gui6.webp": {
+  "size": 133534,
+  "mtimeMs": 1794902246131
+ },
+ "nickOS/progress/bitmaps/gui7.webp": {
+  "size": 153272,
+  "mtimeMs": 1794902246448
+ },
+ "nickOS/progress/bitmaps/gui8.webp": {
+  "size": 14786,
+  "mtimeMs": 1794902246493
+ },
+ "nickOS/progress/bitmaps/imageBitmap1.webp": {
+  "size": 87518,
+  "mtimeMs": 1794902246795
+ },
+ "nickOS/progress/bitmaps/imageBitmap2.webp": {
+  "size": 266240,
+  "mtimeMs": 1794902247164
+ },
+ "nickOS/progress/bitmaps/nickLogo.webp": {
+  "size": 92706,
+  "mtimeMs": 1794902247484
+ },
+ "nickOS/progress/bitmaps/text1.webp": {
+  "size": 62744,
+  "mtimeMs": 1794902247785
+ },
+ "nickOS/progress/bitmaps/text2.webp": {
+  "size": 189900,
+  "mtimeMs": 1794902248141
+ },
+ "nickOS/progress/bitmaps/text3.webp": {
+  "size": 58984,
+  "mtimeMs": 1794902248439
+ },
+ "nickOS/progress/bitmaps/text4.webp": {
+  "size": 143666,
+  "mtimeMs": 1794902248777
+ },
+ "nickOS/progress/gba.webp": {
+  "size": 151496,
+  "mtimeMs": 1794902249100
+ },
+ "nickOS/progress/inference/box1.webp": {
+  "size": 101930,
+  "mtimeMs": 1794902249288
+ },
+ "nickOS/progress/inference/box2.webp": {
+  "size": 107588,
+  "mtimeMs": 1794902249474
+ },
+ "nickOS/progress/inference/box3.webp": {
+  "size": 91560,
+  "mtimeMs": 1794902249659
+ },
+ "nickOS/progress/inference/box4.webp": {
+  "size": 97060,
+  "mtimeMs": 1794902249845
+ },
+ "nickOS/progress/inference/box5.webp": {
+  "size": 76684,
+  "mtimeMs": 1794902250025
+ },
+ "nickOS/progress/inference/box6.webp": {
+  "size": 100154,
+  "mtimeMs": 1794902250213
+ },
+ "nickOS/progress/inference/box8.webp": {
+  "size": 29306,
+  "mtimeMs": 1794902250254
+ },
+ "nickOS/progress/inference/chart1.webp": {
+  "size": 11480,
+  "mtimeMs": 1794902250279
+ },
+ "nickOS/progress/inference/chart2.webp": {
+  "size": 11146,
+  "mtimeMs": 1794902250310
+ },
+ "nickOS/progress/inference/chart3.webp": {
+  "size": 83568,
+  "mtimeMs": 1794902250430
+ },
+ "nickOS/progress/inference/cop.webp": {
+  "size": 13962,
+  "mtimeMs": 1794902250456
+ },
+ "nickOS/progress/inference/dataFlow.webp": {
+  "size": 13048,
+  "mtimeMs": 1794902250483
+ },
+ "nickOS/progress/interrupts/guiButtons1.mp4": {
+  "size": 423210,
+  "mtimeMs": 1794902250868
+ },
+ "nickOS/progress/interrupts/guiButtons1.poster.webp": {
+  "size": 14420,
+  "mtimeMs": 1794902251021
+ },
+ "nickOS/progress/interrupts/guiButtons2.mp4": {
+  "size": 786824,
+  "mtimeMs": 1794902251599
+ },
+ "nickOS/progress/interrupts/guiButtons2.poster.webp": {
+  "size": 16120,
+  "mtimeMs": 1794902251759
+ },
+ "nickOS/progress/interrupts/guiButtons3.mp4": {
+  "size": 378290,
+  "mtimeMs": 1794902252101
+ },
+ "nickOS/progress/interrupts/guiButtons3.poster.webp": {
+  "size": 13346,
+  "mtimeMs": 1794902252249
+ },
+ "nickOS/progress/interrupts/stateMachine2.webp": {
+  "size": 32926,
+  "mtimeMs": 1794902252309
+ },
+ "nickOS/progress/interrupts/ticks.mp4": {
+  "size": 466459,
+  "mtimeMs": 1794902252739
+ },
+ "nickOS/progress/interrupts/ticks.poster.webp": {
+  "size": 14604,
+  "mtimeMs": 1794902252897
+ },
+ "nickOS/progress/intro/armRegisters.webp": {
+  "size": 67788,
+  "mtimeMs": 1794902252992
+ },
+ "nickOS/progress/nickTunes/musicVisualizer.mp4": {
+  "size": 867839,
+  "mtimeMs": 1794902253711
+ },
+ "nickOS/progress/nickTunes/musicVisualizer.poster.webp": {
+  "size": 20314,
+  "mtimeMs": 1794902253916
+ },
+ "nickOS/progress/nickTunes/nickTunes1.mp4": {
+  "size": 1476300,
+  "mtimeMs": 1794902254784
+ },
+ "nickOS/progress/nickTunes/nickTunes1.poster.webp": {
+  "size": 19598,
+  "mtimeMs": 1794902254971
+ },
+ "nickOS/progress/nickTunes/nickTunes2.mp4": {
+  "size": 772708,
+  "mtimeMs": 1794902255532
+ },
+ "nickOS/progress/nickTunes/nickTunes2.poster.webp": {
+  "size": 17296,
+  "mtimeMs": 1794902255704
+ },
+ "nickOS/progress/nicktendo/childhood.webp": {
+  "size": 271586,
+  "mtimeMs": 1794902255894
+ },
+ "nickOS/progress/nicktendo/childhood3.webp": {
+  "size": 55812,
+  "mtimeMs": 1794902255937
+ },
+ "nickOS/progress/nicktendo/nicktendo1.mp4": {
+  "size": 250433,
+  "mtimeMs": 1794902256219
+ },
+ "nickOS/progress/nicktendo/nicktendo1.poster.webp": {
+  "size": 15986,
+  "mtimeMs": 1794902256366
+ },
+ "nickOS/progress/nicktendo/nicktendo2.mp4": {
+  "size": 525207,
+  "mtimeMs": 1794902256813
+ },
+ "nickOS/progress/nicktendo/nicktendo2.poster.webp": {
+  "size": 19550,
+  "mtimeMs": 1794902256985
+ },
+ "nickOS/progress/nicktendo/nicktendo3.mp4": {
+  "size": 365162,
+  "mtimeMs": 1794902257387
+ },
+ "nickOS/progress/nicktendo/nicktendo3.poster.webp": {
+  "size": 15816,
+  "mtimeMs": 1794902257546
+ },
+ "nickOS/progress/pixels/blueScreen.webp": {
+  "size": 49014,
+  "mtimeMs": 1794902257708
+ },
+ "nickOS/progress/pixels/pixels1.webp": {
+  "size": 102152,
+  "mtimeMs": 1794902258010
+ },
+ "nickOS/progress/pixels/pixels2.webp": {
+  "size": 101992,
+  "mtimeMs": 1794902258317
+ },
+ "nickOS/progress/pixels/pixels3.webp": {
+  "size": 89956,
+  "mtimeMs": 1794902258625
+ },
+ "nickOS/progress/pixels/pixels4.webp": {
+  "size": 67626,
+  "mtimeMs": 1794902258923
+ },
+ "nickOS/progress/pixels/pixels5.webp": {
+  "size": 121424,
+  "mtimeMs": 1794902259238
+ },
+ "nickOS/progress/pong/brick.webp": {
+  "size": 6744,
+  "mtimeMs": 1794902259282
+ },
+ "nickOS/progress/pong/pong1.mp4": {
+  "size": 392204,
+  "mtimeMs": 1794902259750
+ },
+ "nickOS/progress/pong/pong1.poster.webp": {
+  "size": 12056,
+  "mtimeMs": 1794902259894
+ },
+ "nickOS/progress/pong/pong2.mp4": {
+  "size": 552487,
+  "mtimeMs": 1794902260378
+ },
+ "nickOS/progress/pong/pong2.poster.webp": {
+  "size": 15132,
+  "mtimeMs": 1794902260543
+ },
+ "nickOS/progress/pong/pong3.mp4": {
+  "size": 523497,
+  "mtimeMs": 1794902261041
+ },
+ "nickOS/progress/pong/pong3.poster.webp": {
+  "size": 16158,
+  "mtimeMs": 1794902261205
+ },
+ "nickOS/progress/telemetry/telemetry1.webp": {
+  "size": 16352,
+  "mtimeMs": 1794902261301
+ },
+ "nickOS/progress/telemetry/telemetry2.webp": {
+  "size": 17186,
+  "mtimeMs": 1794902261339
+ },
+ "nickOS/rockboxSimulator.webp": {
+  "size": 64362,
+  "mtimeMs": 1794902261462
+ }
+}
