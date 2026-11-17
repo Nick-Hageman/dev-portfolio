@@ -416,7 +416,7 @@ The first attempts used **motor imagery**: imagining squeezing my left or right 
 I taped a spoon to the gripper and mapped four contraction classes to two joints: **left/right** turns the base, **up/down** raises and lowers the shoulder, and **rest** holds still. Scooping and lifting only need those 2 degrees of freedom. I don't think scalp EEG gives enough resolution or consistency to drive all six joints, so fewer, more reliable classes made the system usable.
 
 <figure>
-<video src="/neuralNick/EEG/testing-spoon-no-bowl.mp4" autoplay loop muted playsinline></video>
+<video src="/neuralNick/EEG/testing-spoon.mp4" autoplay loop muted playsinline></video>
 <figcaption>Practicing left/right/up/down control with a spoon taped to the gripper</figcaption>
 </figure>
 
